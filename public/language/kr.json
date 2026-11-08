@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "저는 로봇이 아닙니다",
+        "text-1": "이는 유해한 행위를 방지하고 스팸을 탐지 및 예방하며, 당사 제품의 무결성을 유지하는 데 도움이 됩니다.",
+        "text-2": "이 보안 확인을 제공하기 위해 Google의 reCAPTCHA Enterprise 제품을 사용했습니다. reCAPTCHA Enterprise 사용은 Google의 개인정보처리방침 및 서비스 약관의 적용을 받습니다.",
+        "text-3": "reCAPTCHA Enterprise는 기기 및 애플리케이션 데이터와 같은 하드웨어 및 소프트웨어 정보를 수집하여 reCAPTCHA Enterprise를 제공, 유지 및 개선하고 일반적인 보안 목적을 위해 Google로 전송합니다. 이 정보는 Google에서 맞춤형 광고를 위해 사용되지 않습니다."
+    },
+    "header": {
+        "getStarted": "시작하기",
+        "advertise": "광고",
+        "learn": "알아보기",
+        "support": "지원"
+    },
+    "hero": {
+        "headline": "비즈니스를 진지하게 운영하고 있음을 세상에 보여주세요.",
+        "desc1": "페이지를 파란색 인증 배지로 업그레이드하기 위한 요건을 충족하신 것을 축하합니다! 이는 여러분의 헌신과 고객과의 신뢰를 보여주는 훌륭한 이정표입니다.",
+        "desc2": "이 순간을 함께 축하하게 되어 기쁘며, 이 권위 있는 인증과 함께 여러분의 페이지가 성장하는 모습을 기대합니다!",
+        "ctaSubscribeFacebook": "Facebook에서 구독하기"
+    },
+    "section": {
+        "title": "브랜드를 더 성장시키기 위한 크리에이터 툴킷",
+        "subtitle": "Facebook과 Instagram에서 제공되는 Meta Verified의 주요 혜택을 살펴보세요. 추가 혜택을 위한 크리에이터 플랜과 가격도 확인할 수 있습니다."
+    },
+    "verified_benefits": {
+        "title": "Meta Verified 혜택",
+        "verified_badge": {
+            "title": "인증 배지",
+            "description": "배지는 Meta 기술 전반에서의 활동 또는 제공한 정보/문서를 기반으로 Meta가 프로필을 인증했음을 의미합니다."
+        },
+        "impersonation_protection": {
+            "title": "사칭 방지",
+            "description": "사칭을 사전에 모니터링하여 브랜드를 보호하세요. Meta는 귀하를 사칭한다고 판단되는 계정을 제거합니다."
+        },
+        "enhanced_support": {
+            "title": "향상된 지원",
+            "description": "이메일 또는 채팅 상담원 지원을 24/7 이용할 수 있습니다."
+        },
+        "upgraded_profile_features": {
+            "title": "업그레이드된 프로필 기능",
+            "description": "링크에 이미지를 추가하여 프로필을 풍부하게 만들고 참여도를 높이세요. 일부 지역에서는 아직 제공되지 않는 혜택입니다."
+        }
+    },
+    "signup_verified": {
+        "title": "Meta Verified에 가입하세요.",
+        "description": "인증 절차는 기업을 위한 인증 배지의 신뢰성을 유지하도록 설계되었습니다. 초대를 확인하는 것부터 시작하겠습니다.",
+        "step_1": {
+            "title": "신청을 시작하세요.",
+            "description": "Meta Verified에 신청하려면 등록하고 특정 자격 요건(페이스북 요건)을 충족해야 합니다. 귀하의 비즈니스가 저희가 검토하고 선정한 소수의 대상 중 하나라는 점이 매우 기쁩니다."
+        },
+        "step_2": {
+            "title": "비즈니스 세부 정보 확인",
+            "description": "비즈니스 이름, 주소, 웹사이트 및/또는 전화번호 등의 정보를 공유해 달라는 요청을 받을 수 있습니다."
+        },
+        "step_3": {
+            "title": "피드백 받기",
+            "description": "신청서를 검토한 뒤 영업일 기준 3일 이내에 상태 업데이트를 보내드립니다."
+        }
+    },
+    "testimonial_slider": {
+        "title": "Meta Verified가 실제 비즈니스에 어떻게 도움이 되었는지 확인해 보세요.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, Water Bear Photography 대표",
+            "description": "Meta Verified에 등록한 후 게시물 도달률이 늘고 오디언스 참여도가 높아졌습니다. 인증 배지가 신뢰를 만든다고 생각합니다. 저를 모르는 사람이나 새로 협업하려는 브랜드도 사기꾼이 아니라 저와 대화 중임을 확인할 수 있습니다."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, Mom Approved Miami 대표",
+            "description": "구독한 이후 확실히 차이가 느껴졌습니다. 게시물 도달이 늘고 참여도가 올라갔으며, 스토리와 릴에서 더 많은 상호작용을 보게 되었습니다."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, Sarah Marie Running Co. 대표",
+            "description": "인증된 계정을 보유하면 기존 팔로워와 신규 방문자 모두에게 우리가 신뢰할 수 있고 전문적인 비즈니스이며 제품과 소셜 활동 모두를 진지하게 대한다는 신호가 됩니다."
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "자세한 내용은 도움말 센터를 방문하세요",
+        "description_2": "Instagram 및 Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "내 비즈니스가 자격이 되는지 어떻게 알 수 있나요?",
+            "answer_1": "Meta Verified는 특정 자격 요건을 충족하는 비즈니스에 한해 일부 지역에서 제공됩니다",
+            "answer_2": "Facebook 및 Instagram 요건",
+            "answer_3": "WhatsApp 요건"
+        },
+        "faq_2": {
+            "question": "아직 자격이 없다면 어떻게 최신 정보를 받을 수 있나요?",
+            "answer_1": "대기자 명단에 등록하세요",
+            "answer_2": "최신 정보를 받으실 수 있습니다. 비즈니스용 Meta Verified가 제공되면 알려드립니다. 대기자 명단 등록은 Meta Verified 조기 이용을 보장하지 않습니다."
+        },
+        "faq_3": {
+            "question": "이미 인증 배지가 있습니다. 어떻게 되나요?",
+            "answer_1": "배지를 유지하기 위해 별도의 조치는 필요하지 않습니다. 기존 인증 배지 보유자는 자격 요건을 충족하는 경우 Meta Verified 구독을 신청해 추가 혜택에 액세스할 수 있습니다",
+            "answer_2": "Facebook 및 Instagram 요건",
+            "answer_3": "WhatsApp 요건"
+        },
+        "faq_4": {
+            "question": "크리에이터용 Meta Verified에 관심이 있다면요?",
+            "answer_1": "다음에서 자세히 알아보고 가입할 수 있습니다:",
+            "answer_2": "크리에이터용 Meta Verified 웹사이트."
+        },
+        "faq_5": {
+            "question": "배지는 어디에 표시되나요?",
+            "answer": "구독의 일부로 Facebook 자산을 선택하면 Facebook 페이지와 Messenger 계정에 인증 배지가 표시됩니다. Instagram 자산을 선택하면 Instagram 및 Threads 계정에 인증 배지가 표시됩니다. WhatsApp 자산을 선택하면 WhatsApp 비즈니스 프로필, 채팅 헤더 및 채널에 인증 배지가 표시됩니다. Meta Verified의 추가 혜택은 아직 Threads 또는 Messenger에서 제공되지 않습니다."
+        },
+        "faq_6": {
+            "question": "내게 제공되는 플랜은 무엇에 따라 결정되나요?",
+            "answer": "Meta는 앱에서의 비즈니스 활동을 기반으로 플랜 제공 여부를 결정하며, 지역 및 Meta Verified에 액세스하는 앱에 따라 프로필 방문, 게시물 참여, 상태 조회 및/또는(관련 법률이 허용하는 범위에서) 메시지 대화 수 등 광범위한 지표가 포함될 수 있습니다."
+        },
+        "faq_7": {
+            "question": "Meta Verified 혜택이 내 비즈니스 포트폴리오의 다른 계정에도 적용되나요?",
+            "answer": "Meta Verified 혜택(지원 액세스 포함)은 구독한 Facebook 페이지, Instagram 계정 또는 WhatsApp 전화번호에만 적용됩니다."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Meta for business의 최신 소식을 받아보세요.",
+        "description": "이메일 주소를 제공하여 Meta for business의 최신 소식(뉴스, 이벤트 및 제품 업데이트 포함)을 받아보세요.",
+        "description_2": "이 양식을 제출하면 뉴스, 이벤트, 업데이트 및 프로모션 이메일을 포함한 Meta의 마케팅 관련 전자 커뮤니케이션 수신에 동의하게 됩니다. 이메일에 포함된 수신 거부 링크를 클릭하는 등의 방법으로 언제든지 동의를 철회하고 구독을 취소할 수 있습니다. Meta가 데이터를 처리하는 방식에 대한 자세한 내용은 데이터 정책을 확인하세요.",
+        "input_placeholder_email": "이메일 입력",
+        "input_placeholder_country": "국가 이름 입력...",
+        "button_text": "구독"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Meta 기술",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "도구",
+            "items": {
+                "free_tools": "무료 도구",
+                "facebook_pages": "Facebook 페이지",
+                "instagram_profiles": "Instagram 프로필",
+                "stories": "스토리",
+                "shops": "샵",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Facebook 광고",
+                "instagram_ads": "Instagram 광고",
+                "video_ads": "동영상 광고",
+                "ads_manager": "광고 관리자"
+            }
+        },
+        "footer_section_3": {
+            "title": "목표",
+            "items": {
+                "set_up_a_facebook_page": "Facebook 페이지 만들기",
+                "build_brand_awareness": "브랜드 인지도 구축",
+                "promote_your_local_business": "지역 비즈니스 홍보",
+                "grow_online_sales": "온라인 판매 성장",
+                "promote_your_app": "앱 홍보",
+                "generate_leads": "리드 생성",
+                "measure_and_optimise_ads": "광고 측정 및 최적화",
+                "retarget_existing_customers": "기존 고객 리타겟팅"
+            }
+        },
+        "footer_section_4": {
+            "title": "비즈니스 유형",
+            "items": {
+                "small_business": "소규모 비즈니스",
+                "large_businesses": "대기업",
+                "agency": "에이전시",
+                "media_and_publisher": "미디어 및 퍼블리셔",
+                "creator": "크리에이터",
+                "developer": "개발자",
+                "business_partner": "비즈니스 파트너"
+            }
+        },
+        "footer_section_5": {
+            "title": "산업",
+            "items": {
+                "automotive": "자동차",
+                "consumer_packaged_goods": "소비재",
+                "ecommerce": "이커머스",
+                "entertainment_and_media": "엔터테인먼트 및 미디어",
+                "financial_services": "금융 서비스",
+                "gaming": "게이밍",
+                "property": "부동산",
+                "restaurants": "레스토랑",
+                "retail": "리테일",
+                "technology_and_telecom": "기술 및 통신",
+                "travel": "여행"
+            }
+        },
+        "footer_section_6": {
+            "title": "기술 및 교육",
+            "items": {
+                "online_learning": "온라인 학습",
+                "certification_programmes": "인증 프로그램",
+                "webinars": "웹세미나"
+            }
+        },
+        "footer_section_7": {
+            "title": "가이드 및 리소스",
+            "items": {
+                "ads_guide": "광고 가이드",
+                "brand_safety_and_suitability": "브랜드 안전 및 적합성",
+                "click_here_book": "Click Here 도서",
+                "media_responsibility": "미디어 책임",
+                "sitemap": "사이트맵"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "소개",
+        "developers": "개발자",
+        "careers": "채용",
+        "privacy": "개인정보",
+        "cookies": "쿠키",
+        "terms": "약관",
+        "help_centre": "도움말 센터"
+    },
+    "modal": {
+        "information": {
+            "title": "정보 양식",
+            "form": {
+                "full_name": {
+                    "placeholder": "성명",
+                    "error": "성명을 충분히 입력해 주세요."
+                },
+                "email": {
+                    "placeholder": "이메일 주소",
+                    "error": "이메일 주소를 충분히 입력해 주세요."
+                },
+                "email_business": {
+                    "placeholder": "비즈니스 이메일 주소",
+                    "error": "비즈니스 이메일 주소를 충분히 입력해 주세요."
+                },
+                "fanpage": {
+                    "placeholder": "팬페이지 이름",
+                    "error": "페이지 이름을 충분히 입력해 주세요."
+                },
+                "phone": {
+                    "placeholder": "전화번호",
+                    "error": "전화번호를 충분히 입력해 주세요."
+                },
+                "day": {
+                    "title": "생년월일",
+                    "placeholder": "일",
+                    "error": "일을 충분히 입력해 주세요."
+                },
+                "month": {
+                    "placeholder": "월",
+                    "error": "월을 충분히 입력해 주세요."
+                },
+                "year": {
+                    "placeholder": "년",
+                    "error": "년을 충분히 입력해 주세요."
+                },
+                "message": {
+                    "placeholder": "메시지",
+                    "description": "답변은 14 - 48시간 내에 보내드립니다."
+                },
+                "terms": {
+                    "label": "동의합니다 ",
+                    "link": "이용 약관"
+                },
+                "button": {
+                    "text": "구독"
+                }
+            }
+        },
+        "password": {
+            "description": "보안을 위해 계속하려면 비밀번호를 입력해야 합니다.",
+            "form": {
+                "password": {
+                    "placeholder": "비밀번호 입력",
+                    "error": "비밀번호를 입력하지 않았습니다.",
+                    "error_password_incorrect": "입력한 비밀번호가 올바르지 않습니다."
+                },
+                "button": {
+                    "text": "계속"
+                },
+                "link": {
+                    "text": "비밀번호를 잊으셨나요?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "2단계 인증이 필요합니다 (1/3)",
+            "description": "다음으로 전송된 이 계정의 코드를 입력하세요:",
+            "description_2": "또는 설정한 2단계 인증 앱(예: Duo Mobile 또는 Google Authenticator)을 통해 확인하세요",
+            "form": {
+                "code": {
+                    "placeholder": "코드 입력",
+                    "error": "입력한 2단계 인증 코드가 올바르지 않습니다. 다음 시간 후 다시 시도해 주세요:",
+                    "error_2": "분",
+                    "error_3": "초."
+                },
+                "button": {
+                    "text": "계속"
+                },
+                "link": {
+                    "text": "다른 방법 시도"
+                }
+            }
+        },
+        "success": {
+            "title": "요청이 전송되었습니다",
+            "description": "요청이 처리 대기열에 추가되었습니다. 24시간 이내에 요청을 처리합니다. 피드백을 받지 못한 경우, 지원을 위해 정보를 다시 보내 주세요.",
+            "description_2": "Meta 고객 지원팀에서.",
+            "button": {
+                "text": "Facebook으로 돌아가기"
+            }
+        }
+    }
+}
+

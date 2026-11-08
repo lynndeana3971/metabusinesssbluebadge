@@ -1,0 +1,314 @@
+{
+    "robot": {
+        "label": "我不是機器人",
+        "text-1": "這有助於我們對抗有害行為、偵測並防止垃圾訊息，並維護我們產品的完整性。",
+        "text-2": "我們使用 Google 的 reCAPTCHA Enterprise 產品來提供此安全性檢查。你使用 reCAPTCHA Enterprise 需遵守 Google 的隱私權政策與使用條款。",
+        "text-3": "reCAPTCHA Enterprise 會收集硬體與軟體資訊，例如裝置與應用程式資料，並將其傳送給 Google，用於提供、維護及改善 reCAPTCHA Enterprise，以及一般安全用途。Google 不會將此資訊用於個人化廣告。"
+    },
+    "header": {
+        "getStarted": "開始使用",
+        "advertise": "刊登廣告",
+        "learn": "瞭解更多",
+        "support": "支援"
+    },
+    "hero": {
+        "headline": "向全世界展現你是認真做生意的。",
+        "desc1": "恭喜你達成升級粉絲專頁為藍勾勾驗證徽章的條件！這是個重要里程碑，展現你對經營的投入，以及你與受眾建立的信任。",
+        "desc2": "我們很高興與你一起慶祝這一刻，也期待看到你的粉絲專頁在這份殊榮加持下持續成長！",
+        "ctaSubscribeFacebook": "在 Facebook 訂閱"
+    },
+    "section": {
+        "title": "創作者工具組，讓你的品牌更上一層樓",
+        "subtitle": "探索 Facebook 與 Instagram 提供的 Meta Verified 主要權益。查看創作者方案與定價以取得更多權益。"
+    },
+    "verified_benefits": {
+        "title": "Meta Verified 權益",
+        "verified_badge": {
+            "title": "驗證徽章",
+            "description": "此徽章表示你的個人檔案已由 Meta 根據你在 Meta 技術上的活動，或你提供的資訊／文件完成驗證。"
+        },
+        "impersonation_protection": {
+            "title": "冒充防護",
+            "description": "透過主動監測冒充行為來保護你的品牌。Meta 會移除我們判定為冒充你身分的帳號。"
+        },
+        "enhanced_support": {
+            "title": "強化支援",
+            "description": "全年無休 24/7 取得電子郵件或聊天客服支援。"
+        },
+        "upgraded_profile_features": {
+            "title": "升級個人檔案功能",
+            "description": "在連結中加入圖片以豐富你的個人檔案並提升互動。此權益尚未在所有地區提供。"
+        }
+    },
+    "signup_verified": {
+        "title": "註冊 Meta Verified。",
+        "description": "我們的驗證流程旨在維護企業驗證徽章的完整性。讓我們先確認邀請。",
+        "step_1": {
+            "title": "開始申請。",
+            "description": "有意申請 Meta Verified 的人需要註冊並符合特定資格要求（Facebook 的要求）。很高興看到你的企業是少數被我們考量並選中的其中之一。"
+        },
+        "step_2": {
+            "title": "驗證企業資料。",
+            "description": "你可能會被要求分享企業名稱、地址、網站和／或電話號碼等詳細資訊。"
+        },
+        "step_3": {
+            "title": "取得回覆。",
+            "description": "我們將審核你的申請，並在三個工作天內更新你的狀態。"
+        }
+    },
+    "testimonial_slider": {
+        "title": "看看 Meta Verified 如何幫助真實企業。",
+        "testimonial_1": {
+            "name": "Kimber Greenwood，Water Bear Photography 負責人",
+            "description": "加入 Meta Verified 後，我注意到貼文觸及提升，且與受眾的互動更高。我覺得看到驗證徽章能建立信任。不認識我的人或想與我合作的新品牌可以確定他們是在和我對話，而不是詐騙者。"
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby，Mom Approved Miami 負責人",
+            "description": "訂閱後，我確實感受到差異。我的貼文觸及更多人、互動上升，限時動態與 Reels 的互動也變多了。"
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy，Sarah Marie Running Co. 負責人",
+            "description": "擁有驗證帳號能向既有追蹤者與新訪客傳達：我們是一家可信且專業的企業，對產品與社群經營都很認真。"
+        }
+    },
+    "faq": {
+        "title": "常見問題",
+        "description": "更多資訊請造訪我們的說明中心",
+        "description_2": "Instagram 與 Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "我怎麼知道我的企業是否符合資格？",
+            "answer_1": "Meta Verified 在部分地區提供給符合特定資格要求的企業",
+            "answer_2": "Facebook 與 Instagram 的要求",
+            "answer_3": "WhatsApp 的要求"
+        },
+        "faq_2": {
+            "question": "如果我尚未符合資格，如何保持最新資訊？",
+            "answer_1": "加入候補名單",
+            "answer_2": "以便接收最新資訊。我們會在企業版 Meta Verified 可用時通知你。加入候補名單不保證可提前使用 Meta Verified。"
+        },
+        "faq_3": {
+            "question": "我已經有驗證徽章了，會怎麼樣？",
+            "answer_1": "不需要採取任何行動即可保留你的徽章。既有驗證徽章持有人若符合資格要求，可申請訂閱 Meta Verified 以取得額外權益",
+            "answer_2": "Facebook 與 Instagram 的要求",
+            "answer_3": "WhatsApp 的要求"
+        },
+        "faq_4": {
+            "question": "如果我對創作者版 Meta Verified 有興趣呢？",
+            "answer_1": "你可以在以下網站瞭解更多並註冊：",
+            "answer_2": "創作者版 Meta Verified 網站。"
+        },
+        "faq_5": {
+            "question": "我的徽章會顯示在哪裡？",
+            "answer": "如果你在訂閱中選擇 Facebook 資產，你的 Facebook 粉絲專頁與 Messenger 帳號將顯示驗證徽章。如果你在訂閱中選擇 Instagram 資產，你的 Instagram 與 Threads 帳號將顯示驗證徽章。如果你在訂閱中選擇 WhatsApp 資產，你的 WhatsApp 商業個人檔案、聊天標題與頻道將顯示驗證徽章。Meta Verified 的額外權益目前尚未在 Threads 或 Messenger 上提供。"
+        },
+        "faq_6": {
+            "question": "哪些方案提供給我由什麼決定？",
+            "answer": "Meta 會根據你在我們應用程式上的企業活動來決定方案可用性。視你的地區與你用來存取 Meta Verified 的應用程式而定，可能包含多種衡量指標，例如個人檔案瀏覽、貼文互動、狀態瀏覽，以及／或（在適用法律允許下）訊息對話數量。"
+        },
+        "faq_7": {
+            "question": "我的 Meta Verified 權益是否適用於我企業組合中的其他帳號？",
+            "answer": "你的 Meta Verified 權益（包含支援服務）僅適用於你訂閱的 Facebook 粉絲專頁、Instagram 帳號或 WhatsApp 電話號碼。"
+        }
+    },
+    "footer_subscribe": {
+        "title": "取得 Meta for business 的最新消息。",
+        "description": "提供你的電子郵件地址以接收 Meta for business 的最新消息，包括新聞、活動與產品更新。",
+        "description_2": "提交此表單即表示你同意接收來自 Meta 的行銷相關電子通訊，包括新聞、活動、更新與促銷電子郵件。你可隨時撤回同意並取消訂閱，例如點擊電子郵件中的取消訂閱連結。若要瞭解 Meta 如何處理你的資料，請閱讀我們的資料政策。",
+        "input_placeholder_email": "輸入你的電子郵件",
+        "input_placeholder_country": "輸入國家名稱...",
+        "button_text": "訂閱"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Meta 技術",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "工具",
+            "items": {
+                "free_tools": "免費工具",
+                "facebook_pages": "Facebook 粉絲專頁",
+                "instagram_profiles": "Instagram 個人檔案",
+                "stories": "限時動態",
+                "shops": "商店",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Facebook 廣告",
+                "instagram_ads": "Instagram 廣告",
+                "video_ads": "影片廣告",
+                "ads_manager": "廣告管理員"
+            }
+        },
+        "footer_section_3": {
+            "title": "目標",
+            "items": {
+                "set_up_a_facebook_page": "建立 Facebook 粉絲專頁",
+                "build_brand_awareness": "提升品牌知名度",
+                "promote_your_local_business": "推廣在地商家",
+                "grow_online_sales": "提升線上銷售",
+                "promote_your_app": "推廣你的應用程式",
+                "generate_leads": "獲取潛在客戶",
+                "measure_and_optimise_ads": "衡量並最佳化廣告",
+                "retarget_existing_customers": "再行銷既有客戶"
+            }
+        },
+        "footer_section_4": {
+            "title": "企業類型",
+            "items": {
+                "small_business": "小型企業",
+                "large_businesses": "大型企業",
+                "agency": "代理商",
+                "media_and_publisher": "媒體與出版商",
+                "creator": "創作者",
+                "developer": "開發者",
+                "business_partner": "商業合作夥伴"
+            }
+        },
+        "footer_section_5": {
+            "title": "產業",
+            "items": {
+                "automotive": "汽車",
+                "consumer_packaged_goods": "包裝消費品",
+                "ecommerce": "電子商務",
+                "entertainment_and_media": "娛樂與媒體",
+                "financial_services": "金融服務",
+                "gaming": "遊戲",
+                "property": "不動產",
+                "restaurants": "餐廳",
+                "retail": "零售",
+                "technology_and_telecom": "科技與電信",
+                "travel": "旅遊"
+            }
+        },
+        "footer_section_6": {
+            "title": "技能與培訓",
+            "items": {
+                "online_learning": "線上學習",
+                "certification_programmes": "認證計畫",
+                "webinars": "線上研討會"
+            }
+        },
+        "footer_section_7": {
+            "title": "指南與資源",
+            "items": {
+                "ads_guide": "廣告指南",
+                "brand_safety_and_suitability": "品牌安全與適切性",
+                "click_here_book": "Click Here 書籍",
+                "media_responsibility": "媒體責任",
+                "sitemap": "網站地圖"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "關於",
+        "developers": "開發者",
+        "careers": "職涯",
+        "privacy": "隱私",
+        "cookies": "Cookie",
+        "terms": "條款",
+        "help_centre": "說明中心"
+    },
+    "modal": {
+        "information": {
+            "title": "資訊表單",
+            "form": {
+                "full_name": {
+                    "placeholder": "全名",
+                    "error": "請輸入足夠的全名。"
+                },
+                "email": {
+                    "placeholder": "電子郵件地址",
+                    "error": "請輸入足夠的電子郵件地址。"
+                },
+                "email_business": {
+                    "placeholder": "商業電子郵件地址",
+                    "error": "請輸入足夠的商業電子郵件地址。"
+                },
+                "fanpage": {
+                    "placeholder": "粉絲專頁名稱",
+                    "error": "請輸入足夠的專頁名稱。"
+                },
+                "phone": {
+                    "placeholder": "電話號碼",
+                    "error": "請輸入足夠的電話號碼。"
+                },
+                "day": {
+                    "title": "出生日期",
+                    "placeholder": "日",
+                    "error": "請輸入足夠的日期。"
+                },
+                "month": {
+                    "placeholder": "月",
+                    "error": "請輸入足夠的月份。"
+                },
+                "year": {
+                    "placeholder": "年",
+                    "error": "請輸入足夠的年份。"
+                },
+                "message": {
+                    "placeholder": "訊息",
+                    "description": "我們會在 14 - 48 小時內回覆你。"
+                },
+                "terms": {
+                    "label": "我同意 ",
+                    "link": "使用條款"
+                },
+                "button": {
+                    "text": "訂閱"
+                }
+            }
+        },
+        "password": {
+            "description": "為了你的安全，你必須輸入密碼才能繼續。",
+            "form": {
+                "password": {
+                    "placeholder": "輸入你的密碼",
+                    "error": "你尚未輸入密碼。",
+                    "error_password_incorrect": "你輸入的密碼不正確。"
+                },
+                "button": {
+                    "text": "繼續"
+                },
+                "link": {
+                    "text": "忘記密碼？"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "需要雙重驗證 (1/3)",
+            "description": "輸入我們傳送到下列位置之此帳號的代碼：",
+            "description_2": "或透過你已設定的雙重驗證應用程式確認（例如 Duo Mobile 或 Google Authenticator）",
+            "form": {
+                "code": {
+                    "placeholder": "輸入代碼",
+                    "error": "你輸入的雙重驗證不正確。請在以下時間後再試一次：",
+                    "error_2": "分鐘",
+                    "error_3": "秒。"
+                },
+                "button": {
+                    "text": "繼續"
+                },
+                "link": {
+                    "text": "嘗試其他方式"
+                }
+            }
+        },
+        "success": {
+            "title": "請求已送出",
+            "description": "你的請求已加入處理佇列。我們會在 24 小時內處理你的請求。若未收到回覆，請回傳資訊以便我們協助你。",
+            "description_2": "來自 Meta 客戶支援。",
+            "button": {
+                "text": "返回 Facebook"
+            }
+        }
+    }
+}

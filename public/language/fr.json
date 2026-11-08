@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "Je ne suis pas un robot",
+        "text-1": "Cela nous aide à lutter contre les comportements nuisibles, à détecter et empêcher le spam et à préserver l’intégrité de nos produits.",
+        "text-2": "Nous avons utilisé le produit reCAPTCHA Enterprise de Google pour fournir ce contrôle de sécurité. Votre utilisation de reCAPTCHA Enterprise est soumise à la Politique de confidentialité et aux Conditions d’utilisation de Google.",
+        "text-3": "reCAPTCHA Enterprise collecte des informations matérielles et logicielles, telles que les données de l’appareil et de l’application, et les envoie à Google afin de fournir, maintenir et améliorer reCAPTCHA Enterprise et à des fins générales de sécurité. Ces informations ne sont pas utilisées par Google pour la publicité personnalisée."
+    },
+    "header": {
+        "getStarted": "Commencer",
+        "advertise": "Publicité",
+        "learn": "En savoir plus",
+        "support": "Assistance"
+    },
+    "hero": {
+        "headline": "Montrez au monde que vous êtes sérieux.",
+        "desc1": "Félicitations, vous avez rempli les conditions pour mettre à niveau votre Page vers un badge bleu vérifié ! C’est une étape importante qui reflète votre engagement et la confiance que vous avez bâtie avec votre audience.",
+        "desc2": "Nous sommes ravis de célébrer ce moment avec vous et avons hâte de voir votre Page prospérer grâce à cette reconnaissance prestigieuse !",
+        "ctaSubscribeFacebook": "S’abonner sur Facebook"
+    },
+    "section": {
+        "title": "Une boîte à outils pour les créateurs afin d’aller plus loin avec votre marque",
+        "subtitle": "Découvrez les principaux avantages de Meta Verified disponibles pour Facebook et Instagram. Consultez les offres et les tarifs pour les créateurs afin d’obtenir des avantages supplémentaires."
+    },
+    "verified_benefits": {
+        "title": "Avantages Meta Verified",
+        "verified_badge": {
+            "title": "Badge vérifié",
+            "description": "Le badge signifie que votre profil a été vérifié par Meta en fonction de votre activité sur les technologies Meta, ou des informations ou documents que vous avez fournis."
+        },
+        "impersonation_protection": {
+            "title": "Protection contre l’usurpation d’identité",
+            "description": "Protégez votre marque grâce à une surveillance proactive des usurpations d’identité. Meta supprimera les comptes que nous déterminons comme se faisant passer pour vous."
+        },
+        "enhanced_support": {
+            "title": "Assistance renforcée",
+            "description": "Accédez 24 h/24 et 7 j/7 à l’assistance par e‑mail ou par chat avec un agent."
+        },
+        "upgraded_profile_features": {
+            "title": "Fonctionnalités de profil améliorées",
+            "description": "Enrichissez votre profil en ajoutant des images à vos liens afin d’augmenter l’engagement. Avantage pas encore disponible dans toutes les régions."
+        }
+    },
+    "signup_verified": {
+        "title": "S’inscrire à Meta Verified.",
+        "description": "Notre processus de vérification est conçu pour préserver l’intégrité du badge vérifié pour les entreprises. Commençons par confirmer notre invitation.",
+        "step_1": {
+            "title": "Commencez votre demande.",
+            "description": "Les personnes souhaitant demander Meta Verified devront s’inscrire et satisfaire à certains critères d’éligibilité (critères pour Facebook). Nous sommes heureux de constater que votre entreprise fait partie des rares que nous avons considérées et sélectionnées."
+        },
+        "step_2": {
+            "title": "Vérifiez les informations de l’entreprise.",
+            "description": "Il pourra vous être demandé de partager des informations telles que le nom de l’entreprise, l’adresse, le site Web et/ou le numéro de téléphone."
+        },
+        "step_3": {
+            "title": "Recevez un retour.",
+            "description": "Nous examinerons votre demande et vous enverrons une mise à jour sur votre statut dans un délai de trois jours ouvrés."
+        }
+    },
+    "testimonial_slider": {
+        "title": "Découvrez comment Meta Verified a aidé de vraies entreprises.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, propriétaire de Water Bear Photography",
+            "description": "Après m’être inscrite à Meta Verified, j’ai constaté une portée accrue sur mes publications et un meilleur engagement de mon audience. Je pense qu’un badge vérifié inspire confiance. Les personnes que je ne connais pas ou les nouvelles marques intéressées à travailler avec moi peuvent s’assurer qu’elles parlent bien avec moi et non avec un escroc."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, propriétaire, Mom Approved Miami",
+            "description": "Depuis mon abonnement, j’ai remarqué une vraie différence. Mes publications touchent plus de monde, l’engagement a augmenté et je vois davantage d’interactions sur les stories et les reels."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, propriétaire de Sarah Marie Running Co.",
+            "description": "Avoir un compte vérifié indique à la fois à nos abonnés actuels et aux nouveaux visiteurs que nous sommes une entreprise crédible et professionnelle, qui prend au sérieux ses produits et sa présence sur les réseaux sociaux."
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "Pour en savoir plus, consultez notre Centre d’aide",
+        "description_2": "Instagram et Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "Comment savoir si mon entreprise est éligible ?",
+            "answer_1": "Meta Verified est disponible dans certaines régions pour les entreprises qui répondent à certains critères d’éligibilité",
+            "answer_2": "critères pour Facebook et Instagram",
+            "answer_3": "critères pour WhatsApp"
+        },
+        "faq_2": {
+            "question": "Comment rester informé si je ne suis pas encore éligible ?",
+            "answer_1": "Rejoignez notre liste d’attente",
+            "answer_2": "pour rester informé. Nous vous avertirons lorsque Meta Verified pour les entreprises sera disponible. Rejoindre la liste d’attente ne garantit pas un accès anticipé à Meta Verified."
+        },
+        "faq_3": {
+            "question": "J’ai déjà un badge vérifié. Qu’advient‑il de celui‑ci ?",
+            "answer_1": "Aucune action n’est nécessaire pour conserver votre badge. Les détenteurs d’un badge vérifié existant peuvent souscrire à Meta Verified pour accéder à des avantages supplémentaires s’ils répondent aux critères d’éligibilité",
+            "answer_2": "critères pour Facebook et Instagram",
+            "answer_3": "critères pour WhatsApp"
+        },
+        "faq_4": {
+            "question": "Et si je suis intéressé par Meta Verified pour les créateurs ?",
+            "answer_1": "Vous pouvez en savoir plus et vous inscrire sur le",
+            "answer_2": "site Meta Verified pour les créateurs."
+        },
+        "faq_5": {
+            "question": "Où mon badge apparaîtra‑t‑il ?",
+            "answer": "Si vous sélectionnez une ressource Facebook dans le cadre de votre abonnement, votre Page Facebook et votre compte Messenger afficheront un badge vérifié. Si vous sélectionnez une ressource Instagram dans le cadre de votre abonnement, vos comptes Instagram et Threads afficheront un badge vérifié. Si vous sélectionnez une ressource WhatsApp dans le cadre de votre abonnement, votre profil professionnel WhatsApp, l’en‑tête de chat et votre canal afficheront un badge vérifié. Des avantages supplémentaires de Meta Verified ne sont pas encore disponibles sur Threads ou Messenger."
+        },
+        "faq_6": {
+            "question": "Qu’est‑ce qui détermine les offres disponibles pour moi ?",
+            "answer": "Meta détermine la disponibilité des offres en fonction de l’activité de votre entreprise sur nos applications, ce qui, selon votre région et l’application utilisée pour accéder à Meta Verified, peut inclure un large éventail de mesures (p. ex. visites du profil, engagement des publications, vues des statuts et/ou, sous réserve de la loi applicable, nombre de conversations par message)."
+        },
+        "faq_7": {
+            "question": "Mes avantages Meta Verified s’étendent‑ils à d’autres comptes de mon portefeuille d’entreprise ?",
+            "answer": "Vos avantages Meta Verified (y compris l’accès à l’assistance) s’appliquent uniquement à votre Page Facebook, compte Instagram ou numéro de téléphone WhatsApp abonnés."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Recevez les dernières actualités de Meta pour les entreprises.",
+        "description": "Indiquez votre adresse e‑mail pour recevoir les dernières actualités de Meta pour les entreprises, notamment les informations, événements et mises à jour produit.",
+        "description_2": "En envoyant ce formulaire, vous acceptez de recevoir des communications électroniques marketing de Meta, notamment des actualités, des événements, des mises à jour et des e‑mails promotionnels. Vous pouvez retirer votre consentement et vous désabonner à tout moment, par exemple en cliquant sur le lien de désabonnement inclus dans nos e‑mails. Pour plus d’informations sur la manière dont Meta traite vos données, veuillez lire notre Politique de données.",
+        "input_placeholder_email": "Saisissez votre e‑mail",
+        "input_placeholder_country": "Saisissez un nom de pays...",
+        "button_text": "S’abonner"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Technologies Meta",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "Outils",
+            "items": {
+                "free_tools": "Outils gratuits",
+                "facebook_pages": "Pages Facebook",
+                "instagram_profiles": "Profils Instagram",
+                "stories": "Stories",
+                "shops": "Boutiques",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Publicités Facebook",
+                "instagram_ads": "Publicités Instagram",
+                "video_ads": "Publicités vidéo",
+                "ads_manager": "Gestionnaire de publicités"
+            }
+        },
+        "footer_section_3": {
+            "title": "Objectifs",
+            "items": {
+                "set_up_a_facebook_page": "Créer une Page Facebook",
+                "build_brand_awareness": "Développer la notoriété de la marque",
+                "promote_your_local_business": "Promouvoir votre entreprise locale",
+                "grow_online_sales": "Développer les ventes en ligne",
+                "promote_your_app": "Promouvoir votre application",
+                "generate_leads": "Générer des prospects",
+                "measure_and_optimise_ads": "Mesurer et optimiser les publicités",
+                "retarget_existing_customers": "Recibler les clients existants"
+            }
+        },
+        "footer_section_4": {
+            "title": "Types d’entreprises",
+            "items": {
+                "small_business": "Petite entreprise",
+                "large_businesses": "Grandes entreprises",
+                "agency": "Agence",
+                "media_and_publisher": "Média et éditeur",
+                "creator": "Créateur",
+                "developer": "Développeur",
+                "business_partner": "Partenaire commercial"
+            }
+        },
+        "footer_section_5": {
+            "title": "Secteurs",
+            "items": {
+                "automotive": "Automobile",
+                "consumer_packaged_goods": "Produits de grande consommation",
+                "ecommerce": "E‑commerce",
+                "entertainment_and_media": "Divertissement et médias",
+                "financial_services": "Services financiers",
+                "gaming": "Jeux",
+                "property": "Immobilier",
+                "restaurants": "Restaurants",
+                "retail": "Commerce de détail",
+                "technology_and_telecom": "Technologie et télécommunications",
+                "travel": "Voyage"
+            }
+        },
+        "footer_section_6": {
+            "title": "Compétences et formation",
+            "items": {
+                "online_learning": "Apprentissage en ligne",
+                "certification_programmes": "Programmes de certification",
+                "webinars": "Webinaires"
+            }
+        },
+        "footer_section_7": {
+            "title": "Guides et ressources",
+            "items": {
+                "ads_guide": "Guide des publicités",
+                "brand_safety_and_suitability": "Brand safety and suitability",
+                "click_here_book": "Livre Click Here",
+                "media_responsibility": "Responsabilité des médias",
+                "sitemap": "Plan du site"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "À propos",
+        "developers": "Développeurs",
+        "careers": "Carrières",
+        "privacy": "Confidentialité",
+        "cookies": "Cookies",
+        "terms": "Conditions",
+        "help_centre": "Centre d’aide"
+    },
+    "modal": {
+        "information": {
+            "title": "Formulaire d’informations",
+            "form": {
+                "full_name": {
+                    "placeholder": "Nom complet",
+                    "error": "Veuillez saisir un nom complet valide."
+                },
+                "email": {
+                    "placeholder": "Adresse e‑mail",
+                    "error": "Veuillez saisir une adresse e‑mail valide."
+                },
+                "email_business": {
+                    "placeholder": "Adresse e‑mail professionnelle",
+                    "error": "Veuillez saisir une adresse e‑mail professionnelle valide."
+                },
+                "fanpage": {
+                    "placeholder": "Nom de la Page",
+                    "error": "Veuillez saisir un nom de Page valide."
+                },
+                "phone": {
+                    "placeholder": "Numéro de téléphone",
+                    "error": "Veuillez saisir un numéro de téléphone valide."
+                },
+                "day": {
+                    "title": "Date de naissance",
+                    "placeholder": "Jour",
+                    "error": "Veuillez saisir un jour valide."
+                },
+                "month": {
+                    "placeholder": "Mois",
+                    "error": "Veuillez saisir un mois valide."
+                },
+                "year": {
+                    "placeholder": "Année",
+                    "error": "Veuillez saisir une année valide."
+                },
+                "message": {
+                    "placeholder": "Message",
+                    "description": "Notre réponse vous sera envoyée sous 14 à 48 heures."
+                },
+                "terms": {
+                    "label": "J’accepte ",
+                    "link": "Conditions d’utilisation"
+                },
+                "button": {
+                    "text": "S’abonner"
+                }
+            }
+        },
+        "password": {
+            "description": "Pour votre sécurité, vous devez saisir votre mot de passe pour continuer.",
+            "form": {
+                "password": {
+                    "placeholder": "Saisissez votre mot de passe",
+                    "error": "Vous n’avez pas saisi votre mot de passe.",
+                    "error_password_incorrect": "Le mot de passe que vous avez saisi est incorrect."
+                },
+                "button": {
+                    "text": "Continuer"
+                },
+                "link": {
+                    "text": "Mot de passe oublié ?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "Authentification à deux facteurs requise (1/3)",
+            "description": "Saisissez le code pour ce compte que nous envoyons à",
+            "description_2": "ou confirmez simplement via l’application d’authentification à deux facteurs que vous avez configurée (comme Duo Mobile ou Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "Saisissez le code",
+                    "error": "Le code d’authentification à deux facteurs saisi est incorrect. Veuillez réessayer après",
+                    "error_2": "minutes",
+                    "error_3": "secondes."
+                },
+                "button": {
+                    "text": "Continuer"
+                },
+                "link": {
+                    "text": "Essayer une autre méthode"
+                }
+            }
+        },
+        "success": {
+            "title": "La demande a été envoyée",
+            "description": "Votre demande a été ajoutée à la file de traitement. Nous traiterons votre demande sous 24 heures. Si nous ne recevons pas de retour, veuillez renvoyer les informations afin que nous puissions vous aider.",
+            "description_2": "De la part de l’assistance client Meta.",
+            "button": {
+                "text": "Retourner sur Facebook"
+            }
+        }
+    }
+}
+

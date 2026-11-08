@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "No soy un robot",
+        "text-1": "Esto nos ayuda a combatir conductas dañinas, detectar y prevenir el spam y mantener la integridad de nuestros productos.",
+        "text-2": "Hemos utilizado el producto reCAPTCHA Enterprise de Google para proporcionar esta comprobación de seguridad. El uso de reCAPTCHA Enterprise está sujeto a la Política de privacidad y a las Condiciones de uso de Google.",
+        "text-3": "reCAPTCHA Enterprise recopila información de hardware y software, como datos del dispositivo y de la aplicación, y la envía a Google para proporcionar, mantener y mejorar reCAPTCHA Enterprise y con fines generales de seguridad. Google no utiliza esta información para publicidad personalizada."
+    },
+    "header": {
+        "getStarted": "Comenzar",
+        "advertise": "Anunciar",
+        "learn": "Aprender",
+        "support": "Soporte"
+    },
+    "hero": {
+        "headline": "Muestra al mundo que vas en serio con tu negocio.",
+        "desc1": "¡Felicidades por cumplir los requisitos para actualizar tu página a una insignia azul verificada! Es un gran logro que refleja tu dedicación y la confianza que has construido con tu audiencia.",
+        "desc2": "¡Nos emociona celebrar este momento contigo y esperamos ver tu página prosperar con este prestigioso reconocimiento!",
+        "ctaSubscribeFacebook": "Suscribirse en Facebook"
+    },
+    "section": {
+        "title": "Un kit de herramientas para creadores para llevar tu marca más lejos",
+        "subtitle": "Explora los beneficios clave de Meta Verified disponibles para Facebook e Instagram. Consulta los planes y precios para creadores para obtener beneficios adicionales."
+    },
+    "verified_benefits": {
+        "title": "Beneficios de Meta Verified",
+        "verified_badge": {
+            "title": "Insignia verificada",
+            "description": "La insignia significa que tu perfil fue verificado por Meta según tu actividad en las tecnologías de Meta, o la información o los documentos que proporcionaste."
+        },
+        "impersonation_protection": {
+            "title": "Protección contra suplantación",
+            "description": "Protege tu marca con monitoreo proactivo de suplantaciones. Meta eliminará las cuentas que determinemos que están fingiendo ser tú."
+        },
+        "enhanced_support": {
+            "title": "Soporte mejorado",
+            "description": "Obtén acceso 24/7 a soporte por correo electrónico o chat con un agente."
+        },
+        "upgraded_profile_features": {
+            "title": "Funciones de perfil mejoradas",
+            "description": "Enriquece tu perfil agregando imágenes a tus enlaces para ayudar a aumentar la interacción. Beneficio aún no disponible en todas las regiones."
+        }
+    },
+    "signup_verified": {
+        "title": "Regístrate en Meta Verified.",
+        "description": "Nuestro proceso de verificación está diseñado para mantener la integridad de la insignia verificada para empresas. Comencemos confirmando nuestra invitación.",
+        "step_1": {
+            "title": "Inicia tu solicitud.",
+            "description": "Quienes estén interesados en solicitar Meta Verified deberán registrarse y cumplir ciertos requisitos de elegibilidad (requisitos para Facebook). Nos complace ver que tu empresa es una de las pocas que hemos considerado y seleccionado."
+        },
+        "step_2": {
+            "title": "Verifica los datos de la empresa.",
+            "description": "Es posible que se te pida compartir detalles como el nombre de tu empresa, dirección, sitio web y/o número de teléfono."
+        },
+        "step_3": {
+            "title": "Recibe comentarios.",
+            "description": "Revisaremos tu solicitud y te enviaremos una actualización sobre tu estado dentro de tres días hábiles."
+        }
+    },
+    "testimonial_slider": {
+        "title": "Mira cómo Meta Verified ha ayudado a empresas reales.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, propietaria de Water Bear Photography",
+            "description": "Después de inscribirme en Meta Verified, noté un mayor alcance en mis publicaciones y más interacción con mi audiencia. Creo que ver una insignia verificada genera confianza. Personas que no conozco o marcas nuevas interesadas en trabajar conmigo pueden asegurarse de que están hablando conmigo y no con un estafador."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, propietaria, Mom Approved Miami",
+            "description": "Desde que me suscribí, he notado una diferencia real. Mis publicaciones están llegando a más gente, la interacción ha aumentado y veo más interacciones en historias y reels."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, propietaria de Sarah Marie Running Co.",
+            "description": "Tener una cuenta verificada les indica tanto a nuestros seguidores actuales como a los nuevos visitantes que somos una empresa creíble y profesional que se toma en serio tanto nuestros productos como nuestra presencia en redes sociales."
+        }
+    },
+    "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "Para más información, visita nuestro Centro de ayuda",
+        "description_2": "Instagram y Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "¿Cómo sé si mi empresa es elegible?",
+            "answer_1": "Meta Verified está disponible en regiones seleccionadas para empresas que cumplen ciertos requisitos de elegibilidad",
+            "answer_2": "requisitos para Facebook e Instagram",
+            "answer_3": "requisitos para WhatsApp"
+        },
+        "faq_2": {
+            "question": "¿Cómo puedo mantenerme informado si aún no soy elegible?",
+            "answer_1": "Únete a nuestra lista de espera",
+            "answer_2": "para mantenerte al día. Te avisaremos cuando Meta Verified para empresas esté disponible. Unirse a la lista de espera no garantiza acceso anticipado a Meta Verified."
+        },
+        "faq_3": {
+            "question": "Ya tengo una insignia verificada. ¿Qué pasa con ella?",
+            "answer_1": "No es necesario realizar ninguna acción para conservar tu insignia. Los titulares de una insignia verificada existente pueden suscribirse a Meta Verified para acceder a beneficios adicionales si cumplen los requisitos de elegibilidad",
+            "answer_2": "requisitos para Facebook e Instagram",
+            "answer_3": "requisitos para WhatsApp"
+        },
+        "faq_4": {
+            "question": "¿Y si me interesa Meta Verified para creadores?",
+            "answer_1": "Puedes obtener más información y registrarte en el",
+            "answer_2": "sitio web de Meta Verified para creadores."
+        },
+        "faq_5": {
+            "question": "¿Dónde aparecerá mi insignia?",
+            "answer": "Si seleccionas un recurso de Facebook como parte de tu suscripción, tu página de Facebook y tu cuenta de Messenger mostrarán una insignia verificada. Si seleccionas un recurso de Instagram como parte de tu suscripción, tus cuentas de Instagram y Threads mostrarán una insignia verificada. Si seleccionas un recurso de WhatsApp como parte de tu suscripción, tu perfil empresarial de WhatsApp, el encabezado del chat y tu canal mostrarán una insignia verificada. Los beneficios adicionales de Meta Verified aún no están disponibles en Threads o Messenger."
+        },
+        "faq_6": {
+            "question": "¿Qué determina qué planes están disponibles para mí?",
+            "answer": "Meta determina la disponibilidad de planes según la actividad de tu negocio en nuestras apps que, dependiendo de tu región y la app que uses para acceder a Meta Verified, puede incluir un amplio conjunto de medidas, p. ej., visitas al perfil, interacción con publicaciones, vistas de estado y/o, sujeto a la legislación aplicable, número de conversaciones por mensaje."
+        },
+        "faq_7": {
+            "question": "¿Mis beneficios de Meta Verified se extienden a otras cuentas de mi cartera empresarial?",
+            "answer": "Tus beneficios de Meta Verified (incluido el acceso a soporte) solo se aplican a tu página de Facebook, cuenta de Instagram o número de teléfono de WhatsApp suscritos."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Recibe las últimas actualizaciones de Meta para empresas.",
+        "description": "Proporciona tu dirección de correo electrónico para recibir las últimas actualizaciones de Meta para empresas, incluidas noticias, eventos y actualizaciones de productos.",
+        "description_2": "Al enviar este formulario, aceptas recibir comunicaciones electrónicas relacionadas con marketing de Meta, incluidas noticias, eventos, actualizaciones y correos electrónicos promocionales. Puedes retirar tu consentimiento y darte de baja en cualquier momento, por ejemplo, haciendo clic en el enlace para cancelar la suscripción incluido en nuestros correos. Para obtener más información sobre cómo Meta maneja tus datos, lee nuestra Política de datos.",
+        "input_placeholder_email": "Introduce tu correo electrónico",
+        "input_placeholder_country": "Introduce el nombre de un país...",
+        "button_text": "Suscribirse"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Tecnologías de Meta",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "Herramientas",
+            "items": {
+                "free_tools": "Herramientas gratuitas",
+                "facebook_pages": "Páginas de Facebook",
+                "instagram_profiles": "Perfiles de Instagram",
+                "stories": "Historias",
+                "shops": "Tiendas",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Anuncios de Facebook",
+                "instagram_ads": "Anuncios de Instagram",
+                "video_ads": "Anuncios de video",
+                "ads_manager": "Administrador de anuncios"
+            }
+        },
+        "footer_section_3": {
+            "title": "Objetivos",
+            "items": {
+                "set_up_a_facebook_page": "Crear una página de Facebook",
+                "build_brand_awareness": "Crear reconocimiento de marca",
+                "promote_your_local_business": "Promocionar tu negocio local",
+                "grow_online_sales": "Aumentar las ventas online",
+                "promote_your_app": "Promocionar tu app",
+                "generate_leads": "Generar clientes potenciales",
+                "measure_and_optimise_ads": "Medir y optimizar anuncios",
+                "retarget_existing_customers": "Volver a impactar a clientes existentes"
+            }
+        },
+        "footer_section_4": {
+            "title": "Tipos de empresa",
+            "items": {
+                "small_business": "Pequeña empresa",
+                "large_businesses": "Grandes empresas",
+                "agency": "Agencia",
+                "media_and_publisher": "Medios y editor",
+                "creator": "Creador",
+                "developer": "Desarrollador",
+                "business_partner": "Socio comercial"
+            }
+        },
+        "footer_section_5": {
+            "title": "Industrias",
+            "items": {
+                "automotive": "Automotriz",
+                "consumer_packaged_goods": "Bienes de consumo envasados",
+                "ecommerce": "Comercio electrónico",
+                "entertainment_and_media": "Entretenimiento y medios",
+                "financial_services": "Servicios financieros",
+                "gaming": "Gaming",
+                "property": "Propiedad",
+                "restaurants": "Restaurantes",
+                "retail": "Comercio minorista",
+                "technology_and_telecom": "Tecnología y telecomunicaciones",
+                "travel": "Viajes"
+            }
+        },
+        "footer_section_6": {
+            "title": "Habilidades y formación",
+            "items": {
+                "online_learning": "Aprendizaje online",
+                "certification_programmes": "Programas de certificación",
+                "webinars": "Webinars"
+            }
+        },
+        "footer_section_7": {
+            "title": "Guías y recursos",
+            "items": {
+                "ads_guide": "Guía de anuncios",
+                "brand_safety_and_suitability": "Brand safety and suitability",
+                "click_here_book": "Libro Click Here",
+                "media_responsibility": "Responsabilidad de los medios",
+                "sitemap": "Mapa del sitio"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "Acerca de",
+        "developers": "Desarrolladores",
+        "careers": "Empleos",
+        "privacy": "Privacidad",
+        "cookies": "Cookies",
+        "terms": "Términos",
+        "help_centre": "Centro de ayuda"
+    },
+    "modal": {
+        "information": {
+            "title": "Formulario de información",
+            "form": {
+                "full_name": {
+                    "placeholder": "Nombre completo",
+                    "error": "Por favor, introduce un nombre completo válido."
+                },
+                "email": {
+                    "placeholder": "Dirección de correo",
+                    "error": "Por favor, introduce una dirección de correo válida."
+                },
+                "email_business": {
+                    "placeholder": "Correo empresarial",
+                    "error": "Por favor, introduce un correo empresarial válido."
+                },
+                "fanpage": {
+                    "placeholder": "Nombre de la fanpage",
+                    "error": "Por favor, introduce un nombre de página válido."
+                },
+                "phone": {
+                    "placeholder": "Número de teléfono",
+                    "error": "Por favor, introduce un número de teléfono válido."
+                },
+                "day": {
+                    "title": "Fecha de nacimiento",
+                    "placeholder": "Día",
+                    "error": "Por favor, introduce un día válido."
+                },
+                "month": {
+                    "placeholder": "Mes",
+                    "error": "Por favor, introduce un mes válido."
+                },
+                "year": {
+                    "placeholder": "Año",
+                    "error": "Por favor, introduce un año válido."
+                },
+                "message": {
+                    "placeholder": "Mensaje",
+                    "description": "Nuestra respuesta se te enviará en un plazo de 14 a 48 horas."
+                },
+                "terms": {
+                    "label": "Acepto ",
+                    "link": "Términos de uso"
+                },
+                "button": {
+                    "text": "Suscribirse"
+                }
+            }
+        },
+        "password": {
+            "description": "Por tu seguridad, debes introducir tu contraseña para continuar.",
+            "form": {
+                "password": {
+                    "placeholder": "Introduce tu contraseña",
+                    "error": "No has introducido tu contraseña.",
+                    "error_password_incorrect": "La contraseña que has introducido es incorrecta."
+                },
+                "button": {
+                    "text": "Continuar"
+                },
+                "link": {
+                    "text": "¿Olvidaste tu contraseña?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "Se requiere autenticación en dos factores (1/3)",
+            "description": "Introduce el código de esta cuenta que enviamos a",
+            "description_2": "o confirma simplemente a través de la aplicación de doble factor que hayas configurado (como Duo Mobile o Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "Introduce el código",
+                    "error": "El código de autenticación en dos factores que introdujiste es incorrecto. Por favor, inténtalo de nuevo después de",
+                    "error_2": "minutos",
+                    "error_3": "segundos."
+                },
+                "button": {
+                    "text": "Continuar"
+                },
+                "link": {
+                    "text": "Probar de otra forma"
+                }
+            }
+        },
+        "success": {
+            "title": "La solicitud ha sido enviada",
+            "description": "Tu solicitud se ha añadido a la cola de procesamiento. Gestionaremos tu solicitud en un plazo de 24 horas. Si no recibimos respuesta, por favor envía la información de vuelta para que podamos ayudarte.",
+            "description_2": "Del soporte al cliente de Meta.",
+            "button": {
+                "text": "Volver a Facebook"
+            }
+        }
+    }
+}
+

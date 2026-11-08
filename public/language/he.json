@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "אני לא רובוט",
+        "text-1": "זה מסייע לנו להילחם בהתנהגות מזיקה, לזהות ולמנוע ספאם ולשמור על שלמות המוצרים שלנו.",
+        "text-2": "השתמשנו במוצר reCAPTCHA Enterprise של Google כדי לספק בדיקת אבטחה זו. השימוש שלך ב‑reCAPTCHA Enterprise כפוף למדיניות הפרטיות ולתנאי השימוש של Google.",
+        "text-3": "reCAPTCHA Enterprise אוסף מידע על חומרה ותוכנה, כגון נתוני מכשיר ויישום, ושולח אותו ל‑Google כדי לספק, לתחזק ולשפר את reCAPTCHA Enterprise ולמטרות אבטחה כלליות. Google לא משתמש במידע זה לפרסום מותאם אישית."
+    },
+    "header": {
+        "getStarted": "התחל",
+        "advertise": "פרסום",
+        "learn": "למד",
+        "support": "תמיכה"
+    },
+    "hero": {
+        "headline": "הראה לעולם שאתה רציני בעסקים.",
+        "desc1": "ברכות על כך שעמדת בדרישות לשדרוג העמוד שלך לתג כחול מאומת! זהו ציון דרך נהדר שמשקף את המסירות שלך ואת האמון שבנית עם הקהל שלך.",
+        "desc2": "אנחנו שמחים לחגוג את הרגע הזה איתך ומצפים לראות את העמוד שלך משגשג עם ההכרה היוקרתית הזו!",
+        "ctaSubscribeFacebook": "הירשם ב-Facebook"
+    },
+    "section": {
+        "title": "ערכת כלים ליוצרים כדי לקדם את המותג שלך עוד יותר",
+        "subtitle": "גלו יתרונות מרכזיים של Meta Verified הזמינים עבור Facebook ו-Instagram. ראו תוכניות ומחירים ליוצרים עבור יתרונות נוספים."
+    },
+    "verified_benefits": {
+        "title": "היתרונות של Meta Verified",
+        "verified_badge": {
+            "title": "תג מאומת",
+            "description": "התג מציין שהפרופיל שלך אומת על ידי Meta בהתבסס על הפעילות שלך בטכנולוגיות של Meta, או על מידע/מסמכים שסיפקת."
+        },
+        "impersonation_protection": {
+            "title": "הגנה מפני התחזות",
+            "description": "הגן על המותג שלך באמצעות ניטור יזום של התחזות. Meta תסיר חשבונות שאנחנו קובעים שמתחזים אליך."
+        },
+        "enhanced_support": {
+            "title": "תמיכה משופרת",
+            "description": "קבל גישה 24/7 לתמיכת סוכן בדוא\"ל או בצ'אט."
+        },
+        "upgraded_profile_features": {
+            "title": "תכונות פרופיל משודרגות",
+            "description": "העשיר את הפרופיל שלך על ידי הוספת תמונות לקישורים כדי לעזור להגדיל מעורבות. ההטבה עדיין לא זמינה בכל האזורים."
+        }
+    },
+    "signup_verified": {
+        "title": "הירשם ל-Meta Verified.",
+        "description": "תהליך האימות שלנו נועד לשמור על שלמות התג המאומת לעסקים. נתחיל באישור ההזמנה שלנו.",
+        "step_1": {
+            "title": "התחל את הבקשה שלך.",
+            "description": "מי שמעוניין להגיש בקשה ל-Meta Verified יצטרך להירשם ולעמוד בדרישות זכאות מסוימות (דרישות עבור Facebook). אנו שמחים לראות שהעסק שלך הוא אחד המעטים ששקלנו ובחרנו."
+        },
+        "step_2": {
+            "title": "אמת פרטי עסק.",
+            "description": "ייתכן שתתבקש לשתף פרטים כגון שם העסק, כתובת, אתר אינטרנט ו/או מספר טלפון."
+        },
+        "step_3": {
+            "title": "קבל משוב.",
+            "description": "נבחן את הבקשה שלך ונשלח עדכון על הסטטוס שלך בתוך שלושה ימי עבודה."
+        }
+    },
+    "testimonial_slider": {
+        "title": "ראו כיצד Meta Verified סייע לעסקים אמיתיים.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, בעלת Water Bear Photography",
+            "description": "לאחר שנרשמתי ל-Meta Verified, הבחנתי בהגעה גדולה יותר לפוסטים שלי ובמעורבות גבוהה יותר עם הקהל. אני חושבת שתג מאומת בונה אמון. אנשים שאני לא מכירה או מותגים חדשים שמעוניינים לעבוד איתי יכולים לוודא שהם מדברים איתי ולא עם נוכל."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, בעלים, Mom Approved Miami",
+            "description": "מאז שנרשמתי, אני רואה הבדל אמיתי. הפוסטים שלי מגיעים ליותר אנשים, המעורבות עלתה ואני רואה יותר אינטראקציות בסטוריז וברילס."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, בעלת Sarah Marie Running Co.",
+            "description": "חשבון מאומת מסמן גם לעוקבים הקיימים וגם למבקרים חדשים שאנחנו עסק אמין ומקצועי שמתייחס ברצינות למוצרים שלנו וגם לנוכחות החברתית שלנו."
+        }
+    },
+    "faq": {
+        "title": "שאלות נפוצות",
+        "description": "למידע נוסף, בקרו במרכז העזרה שלנו",
+        "description_2": "Instagram ו-Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "איך אדע אם העסק שלי זכאי?",
+            "answer_1": "Meta Verified זמין באזורים נבחרים לעסקים שעומדים בדרישות זכאות מסוימות",
+            "answer_2": "דרישות עבור Facebook ו-Instagram",
+            "answer_3": "דרישות עבור WhatsApp"
+        },
+        "faq_2": {
+            "question": "איך אוכל להישאר מעודכן אם אני עדיין לא זכאי?",
+            "answer_1": "הצטרפו לרשימת ההמתנה שלנו",
+            "answer_2": "כדי להישאר מעודכנים. נודיע לכם כאשר Meta Verified לעסקים יהיה זמין. הצטרפות לרשימת ההמתנה אינה מבטיחה גישה מוקדמת ל-Meta Verified."
+        },
+        "faq_3": {
+            "question": "כבר יש לי תג מאומת. מה יקרה לו?",
+            "answer_1": "אין צורך לבצע פעולה כדי לשמור על התג. מחזיקי תג מאומת קיימים יכולים להגיש בקשה למנוי Meta Verified כדי לקבל יתרונות נוספים אם הם עומדים בדרישות הזכאות",
+            "answer_2": "דרישות עבור Facebook ו-Instagram",
+            "answer_3": "דרישות עבור WhatsApp"
+        },
+        "faq_4": {
+            "question": "מה אם אני מעוניין ב-Meta Verified ליוצרים?",
+            "answer_1": "אפשר ללמוד עוד ולהירשם ב-",
+            "answer_2": "אתר Meta Verified ליוצרים."
+        },
+        "faq_5": {
+            "question": "איפה התג שלי יופיע?",
+            "answer": "אם תבחרו נכס של Facebook כחלק מהמנוי, עמוד ה-Facebook וחשבון ה-Messenger שלכם יציגו תג מאומת. אם תבחרו נכס של Instagram כחלק מהמנוי, חשבונות ה-Instagram וה-Threads שלכם יציגו תג מאומת. אם תבחרו נכס של WhatsApp כחלק מהמנוי, פרופיל העסק ב-WhatsApp, כותרת הצ'אט והערוץ שלכם יציגו תג מאומת. יתרונות נוספים של Meta Verified עדיין לא זמינים ב-Threads או ב-Messenger."
+        },
+        "faq_6": {
+            "question": "מה קובע אילו תוכניות זמינות לי?",
+            "answer": "Meta קובעת זמינות תוכניות בהתאם לפעילות העסקית שלכם באפליקציות שלנו, שעשויה לכלול, בהתאם לאזור וליישום שבו אתם משתמשים כדי לגשת ל-Meta Verified, מגוון רחב של מדדים, למשל ביקורים בפרופיל, מעורבות בפוסטים, צפיות בסטטוס ו/או, בכפוף לחוק החל, מספר שיחות הודעות."
+        },
+        "faq_7": {
+            "question": "האם יתרונות Meta Verified שלי חלים גם על חשבונות אחרים בתיק העסקי שלי?",
+            "answer": "יתרונות Meta Verified שלכם (כולל גישה לתמיכה) חלים רק על עמוד ה-Facebook, חשבון ה-Instagram או מספר הטלפון של WhatsApp שעליהם נרשמתם."
+        }
+    },
+    "footer_subscribe": {
+        "title": "קבלו את העדכונים האחרונים מ-Meta לעסקים.",
+        "description": "ספקו את כתובת הדוא\"ל שלכם כדי לקבל את העדכונים האחרונים מ-Meta לעסקים, כולל חדשות, אירועים ועדכוני מוצרים.",
+        "description_2": "באמצעות שליחת טופס זה, אתם מסכימים לקבל תקשורת אלקטרונית שיווקית מ-Meta, כולל חדשות, אירועים, עדכונים ומיילים פרסומיים. תוכלו למשוך את הסכמתכם ולהסיר את ההרשמה בכל עת, למשל באמצעות לחיצה על קישור להסרה שמופיע במיילים שלנו. למידע נוסף על האופן שבו Meta מטפלת בנתונים שלכם, אנא קראו את מדיניות הנתונים שלנו.",
+        "input_placeholder_email": "הזינו את האימייל שלכם",
+        "input_placeholder_country": "הזינו שם מדינה...",
+        "button_text": "הירשם"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "טכנולוגיות של Meta",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "כלים",
+            "items": {
+                "free_tools": "כלים בחינם",
+                "facebook_pages": "עמודי Facebook",
+                "instagram_profiles": "פרופילי Instagram",
+                "stories": "סטוריז",
+                "shops": "חנויות",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "מודעות Facebook",
+                "instagram_ads": "מודעות Instagram",
+                "video_ads": "מודעות וידאו",
+                "ads_manager": "מנהל המודעות"
+            }
+        },
+        "footer_section_3": {
+            "title": "מטרות",
+            "items": {
+                "set_up_a_facebook_page": "הקימו עמוד Facebook",
+                "build_brand_awareness": "בנו מודעות למותג",
+                "promote_your_local_business": "קדמו את העסק המקומי שלכם",
+                "grow_online_sales": "הגדילו מכירות אונליין",
+                "promote_your_app": "קדמו את האפליקציה שלכם",
+                "generate_leads": "הפיקו לידים",
+                "measure_and_optimise_ads": "מדדו ואופטימזו מודעות",
+                "retarget_existing_customers": "בצעו ריטרגטינג ללקוחות קיימים"
+            }
+        },
+        "footer_section_4": {
+            "title": "סוגי עסקים",
+            "items": {
+                "small_business": "עסק קטן",
+                "large_businesses": "עסקים גדולים",
+                "agency": "סוכנות",
+                "media_and_publisher": "מדיה ומוציא לאור",
+                "creator": "יוצר",
+                "developer": "מפתח",
+                "business_partner": "שותף עסקי"
+            }
+        },
+        "footer_section_5": {
+            "title": "תעשיות",
+            "items": {
+                "automotive": "רכב",
+                "consumer_packaged_goods": "מוצרי צריכה ארוזים",
+                "ecommerce": "מסחר אלקטרוני",
+                "entertainment_and_media": "בידור ומדיה",
+                "financial_services": "שירותים פיננסיים",
+                "gaming": "גיימינג",
+                "property": "נדל\"ן",
+                "restaurants": "מסעדות",
+                "retail": "קמעונאות",
+                "technology_and_telecom": "טכנולוגיה ותקשורת",
+                "travel": "נסיעות"
+            }
+        },
+        "footer_section_6": {
+            "title": "מיומנויות והדרכה",
+            "items": {
+                "online_learning": "למידה מקוונת",
+                "certification_programmes": "תוכניות הסמכה",
+                "webinars": "וובינרים"
+            }
+        },
+        "footer_section_7": {
+            "title": "מדריכים ומשאבים",
+            "items": {
+                "ads_guide": "מדריך מודעות",
+                "brand_safety_and_suitability": "בטיחות והתאמה למותג",
+                "click_here_book": "הספר Click Here",
+                "media_responsibility": "אחריות מדיה",
+                "sitemap": "מפת אתר"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "אודות",
+        "developers": "מפתחים",
+        "careers": "קריירה",
+        "privacy": "פרטיות",
+        "cookies": "עוגיות",
+        "terms": "תנאים",
+        "help_centre": "מרכז העזרה"
+    },
+    "modal": {
+        "information": {
+            "title": "טופס מידע",
+            "form": {
+                "full_name": {
+                    "placeholder": "שם מלא",
+                    "error": "נא להזין שם מלא מספיק."
+                },
+                "email": {
+                    "placeholder": "כתובת אימייל",
+                    "error": "נא להזין כתובת אימייל מלאה."
+                },
+                "email_business": {
+                    "placeholder": "אימייל עסקי",
+                    "error": "נא להזין כתובת אימייל עסקית מלאה."
+                },
+                "fanpage": {
+                    "placeholder": "שם דף אוהדים",
+                    "error": "נא להזין שם דף מספיק."
+                },
+                "phone": {
+                    "placeholder": "מספר טלפון",
+                    "error": "נא להזין מספר טלפון מספיק."
+                },
+                "day": {
+                    "title": "תאריך לידה",
+                    "placeholder": "יום",
+                    "error": "נא להזין יום מספיק."
+                },
+                "month": {
+                    "placeholder": "חודש",
+                    "error": "נא להזין חודש מספיק."
+                },
+                "year": {
+                    "placeholder": "שנה",
+                    "error": "נא להזין שנה מספיק."
+                },
+                "message": {
+                    "placeholder": "הודעה",
+                    "description": "התגובה שלנו תישלח אליך בתוך 14 - 48 שעות."
+                },
+                "terms": {
+                    "label": "אני מסכים ",
+                    "link": "תנאי שימוש"
+                },
+                "button": {
+                    "text": "הירשם"
+                }
+            }
+        },
+        "password": {
+            "description": "למען אבטחתך, עליך להזין את הסיסמה כדי להמשיך.",
+            "form": {
+                "password": {
+                    "placeholder": "הזן את הסיסמה שלך",
+                    "error": "לא הזנת את הסיסמה שלך.",
+                    "error_password_incorrect": "הסיסמה שהזנת שגויה."
+                },
+                "button": {
+                    "text": "המשך"
+                },
+                "link": {
+                    "text": "שכחת את הסיסמה?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "נדרשת אימות דו-שלבי (1/3)",
+            "description": "הזינו את הקוד לחשבון זה שאנחנו שולחים אל",
+            "description_2": "או פשוט אשרו דרך אפליקציית אימות דו-שלבי שהגדרתם (כגון Duo Mobile או Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "הזינו את הקוד",
+                    "error": "אימות הדו-שלבי שהזנתם שגוי. אנא נסו שוב לאחר",
+                    "error_2": "דקות",
+                    "error_3": "שניות."
+                },
+                "button": {
+                    "text": "המשך"
+                },
+                "link": {
+                    "text": "נסו דרך אחרת"
+                }
+            }
+        },
+        "success": {
+            "title": "הבקשה נשלחה",
+            "description": "הבקשה שלך נוספה לתור העיבוד. נטפל בבקשה שלך בתוך 24 שעות. במקרה שלא נקבל משוב, אנא שלחו מידע בחזרה כדי שנוכל לסייע לכם.",
+            "description_2": "מצוות תמיכת הלקוחות של Meta.",
+            "button": {
+                "text": "חזרה ל-Facebook"
+            }
+        }
+    }
+}
+

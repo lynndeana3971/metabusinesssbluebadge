@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "Nem vagyok robot",
+        "text-1": "Ez segít nekünk a káros magatartás elleni küzdelemben, a spam észlelésében és megelőzésében, valamint Termékeink integritásának megőrzésében.",
+        "text-2": "A biztonsági ellenőrzés biztosításához a Google reCAPTCHA Enterprise termékét használjuk. A reCAPTCHA Enterprise használatára a Google Adatvédelmi irányelvei és Felhasználási feltételei vonatkoznak.",
+        "text-3": "A reCAPTCHA Enterprise hardver- és szoftverinformációkat gyűjt, például eszköz- és alkalmazásadatokat, és ezeket elküldi a Google-nak a reCAPTCHA Enterprise biztosítása, fenntartása és fejlesztése, valamint általános biztonsági célok érdekében. A Google nem használja ezeket az információkat személyre szabott hirdetésekhez."
+    },
+    "header": {
+        "getStarted": "Kezdés",
+        "advertise": "Hirdetés",
+        "learn": "Tudj meg többet",
+        "support": "Támogatás"
+    },
+    "hero": {
+        "headline": "Mutasd meg a világnak, hogy komolyan gondolod az üzletet.",
+        "desc1": "Gratulálunk, teljesítetted a feltételeket, hogy az oldalad kék, hitelesített jelvényt kapjon! Ez egy fantasztikus mérföldkő, amely tükrözi az elkötelezettségedet és azt a bizalmat, amit a közönségeddel felépítettél.",
+        "desc2": "Örömmel ünneplünk veled, és alig várjuk, hogy lássuk, hogyan fog virágozni az oldalad ezzel a rangos elismeréssel!",
+        "ctaSubscribeFacebook": "Előfizetés Facebookon"
+    },
+    "section": {
+        "title": "Eszközkészlet alkotóknak, hogy tovább vidd a márkádat",
+        "subtitle": "Fedezd fel a Meta Verified fő előnyeit, amelyek elérhetők a Facebookon és az Instagramon. Nézd meg az alkotói csomagokat és árakat a további előnyökért."
+    },
+    "verified_benefits": {
+        "title": "Meta Verified előnyök",
+        "verified_badge": {
+            "title": "Hitelesített jelvény",
+            "description": "A jelvény azt jelenti, hogy a profilodat a Meta hitelesítette a Meta-technológiákban végzett tevékenységed alapján, vagy az általad megadott információk/dokumentumok alapján."
+        },
+        "impersonation_protection": {
+            "title": "Személyazonosság-lopás elleni védelem",
+            "description": "Védd a márkádat proaktív megszemélyesítés-figyeléssel. A Meta eltávolítja azokat a fiókokat, amelyekről úgy ítéljük meg, hogy téged próbálnak megjátszani."
+        },
+        "enhanced_support": {
+            "title": "Fokozott támogatás",
+            "description": "24/7 hozzáférés e-mailes vagy chates ügyfélszolgálati támogatáshoz."
+        },
+        "upgraded_profile_features": {
+            "title": "Továbbfejlesztett profilfunkciók",
+            "description": "Gazdagítsd a profilodat úgy, hogy képeket adsz a linkjeidhez az elköteleződés növeléséhez. Az előny még nem minden régióban érhető el."
+        }
+    },
+    "signup_verified": {
+        "title": "Iratkozz fel a Meta Verifiedre.",
+        "description": "A hitelesítési folyamatunk célja, hogy megőrizze a hitelesített jelvény integritását a vállalkozások számára. Kezdjük azzal, hogy megerősítjük a meghívásunkat.",
+        "step_1": {
+            "title": "Indítsd el a jelentkezést.",
+            "description": "A Meta Verifiedre jelentkezőknek regisztrálniuk kell és meg kell felelniük bizonyos jogosultsági feltételeknek (Facebook-követelmények). Örülünk, hogy a vállalkozásod azon kevesek közé tartozik, akiket megfontoltunk és kiválasztottunk."
+        },
+        "step_2": {
+            "title": "Vállalkozási adatok ellenőrzése.",
+            "description": "Előfordulhat, hogy olyan adatokat kell megadnod, mint a vállalkozás neve, címe, weboldala és/vagy telefonszáma."
+        },
+        "step_3": {
+            "title": "Visszajelzés.",
+            "description": "Átnézzük a jelentkezésedet, és három munkanapon belül frissítést küldünk az állapotodról."
+        }
+    },
+    "testimonial_slider": {
+        "title": "Nézd meg, hogyan segített a Meta Verified valódi vállalkozásoknak.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, a Water Bear Photography tulajdonosa",
+            "description": "Miután előfizettem a Meta Verifiedre, észrevettem, hogy a posztjaim nagyobb elérést kaptak, és nőtt a közönségem elköteleződése. Szerintem a hitelesített jelvény bizalmat épít. Azok, akiket nem ismerek, vagy az új márkák, akik együtt szeretnének velem dolgozni, biztosak lehetnek benne, hogy velem beszélnek, nem egy csalóval."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, tulajdonos, Mom Approved Miami",
+            "description": "Az előfizetés óta valódi különbséget látok. A posztjaim több emberhez jutnak el, nőtt az elköteleződés, és több interakciót látok a sztorikban és a reels videókban."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, a Sarah Marie Running Co. tulajdonosa",
+            "description": "A hitelesített fiók azt jelzi a meglévő követőinknek és az új látogatóknak is, hogy megbízható, professzionális vállalkozás vagyunk, amely komolyan veszi a termékeit és a közösségi jelenlétét."
+        }
+    },
+    "faq": {
+        "title": "GYIK",
+        "description": "További információért látogasd meg a Súgóközpontot",
+        "description_2": "Instagram és Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "Honnan tudhatom, hogy a vállalkozásom jogosult?",
+            "answer_1": "A Meta Verified kiválasztott régiókban érhető el azoknak a vállalkozásoknak, amelyek megfelelnek bizonyos jogosultsági feltételeknek",
+            "answer_2": "követelmények Facebookra és Instagramra",
+            "answer_3": "követelmények WhatsAppra"
+        },
+        "faq_2": {
+            "question": "Hogyan maradhatok tájékozott, ha még nem vagyok jogosult?",
+            "answer_1": "Csatlakozz a várólistánkhoz",
+            "answer_2": "hogy naprakész maradj. Értesítünk, amikor a Meta Verified vállalkozásoknak elérhető lesz. A várólistára való feliratkozás nem garantál korai hozzáférést."
+        },
+        "faq_3": {
+            "question": "Már van hitelesített jelvényem. Mi lesz vele?",
+            "answer_1": "A jelvény megtartásához nincs szükség teendőre. A meglévő hitelesített jelvény tulajdonosai Meta Verified előfizetést igényelhetnek további előnyökért, ha megfelelnek a jogosultsági feltételeknek",
+            "answer_2": "követelmények Facebookra és Instagramra",
+            "answer_3": "követelmények WhatsAppra"
+        },
+        "faq_4": {
+            "question": "Mi van, ha a Meta Verified alkotóknak érdekel?",
+            "answer_1": "További információt találsz és feliratkozhatsz a",
+            "answer_2": "Meta Verified alkotóknak weboldalán."
+        },
+        "faq_5": {
+            "question": "Hol fog megjelenni a jelvényem?",
+            "answer": "Ha a Facebookot választod előfizetésed részeként, a Facebook oldalad és a Messenger fiókod hitelesített jelvényt fog megjeleníteni. Ha az Instagramot választod, az Instagram és Threads fiókjaid jelenítik meg a jelvényt. Ha a WhatsAppot választod, a WhatsApp üzleti profilod, a csevegés fejléc és a csatornád jeleníti meg a jelvényt. A Meta Verified további előnyei még nem érhetők el a Threads vagy a Messenger felületén."
+        },
+        "faq_6": {
+            "question": "Mi határozza meg, hogy milyen csomagok érhetők el számomra?",
+            "answer": "A Meta a csomagok elérhetőségét a vállalkozásod alkalmazásainkban végzett tevékenysége alapján határozza meg, ami a régiódtól és a Meta Verified eléréséhez használt alkalmazástól függően sokféle mérőszámot tartalmazhat, például profilmegtekintéseket, poszt‑elköteleződést, státuszmegtekintéseket és/vagy (az alkalmazandó jog szerint) üzenetbeszélgetések számát."
+        },
+        "faq_7": {
+            "question": "Kiterjednek a Meta Verified előnyeim a vállalkozásom más fiókjaira is?",
+            "answer": "A Meta Verified előnyeid (beleértve a támogatáshoz való hozzáférést) csak az előfizetett Facebook oldaladra, Instagram fiókodra vagy WhatsApp telefonszámodra vonatkoznak."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Kapd meg a legfrissebb Meta for business híreket.",
+        "description": "Add meg az e‑mail címedet, hogy megkapd a Meta for business legfrissebb híreit, beleértve a híreket, eseményeket és termékfrissítéseket.",
+        "description_2": "A űrlap elküldésével hozzájárulsz, hogy marketing célú elektronikus kommunikációt kapj a Metától, beleértve híreket, eseményeket, frissítéseket és promóciós e‑maileket. Hozzájárulásodat bármikor visszavonhatod és leiratkozhatsz, például az e‑mailekben található leiratkozási linkre kattintva. A Meta adatkezeléséről bővebben az Adatvédelmi irányelvekben olvashatsz.",
+        "input_placeholder_email": "Add meg az e‑mail címed",
+        "input_placeholder_country": "Adj meg egy országnevet...",
+        "button_text": "Előfizetés"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Meta technológiák",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "Eszközök",
+            "items": {
+                "free_tools": "Ingyenes eszközök",
+                "facebook_pages": "Facebook oldalak",
+                "instagram_profiles": "Instagram profilok",
+                "stories": "Sztorik",
+                "shops": "Shopok",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Facebook hirdetések",
+                "instagram_ads": "Instagram hirdetések",
+                "video_ads": "Videóhirdetések",
+                "ads_manager": "Ads Manager"
+            }
+        },
+        "footer_section_3": {
+            "title": "Célok",
+            "items": {
+                "set_up_a_facebook_page": "Facebook oldal létrehozása",
+                "build_brand_awareness": "Márkaismertség építése",
+                "promote_your_local_business": "Helyi vállalkozás népszerűsítése",
+                "grow_online_sales": "Online értékesítés növelése",
+                "promote_your_app": "Alkalmazás népszerűsítése",
+                "generate_leads": "Lead generálása",
+                "measure_and_optimise_ads": "Hirdetések mérése és optimalizálása",
+                "retarget_existing_customers": "Meglévő ügyfelek újracélzása"
+            }
+        },
+        "footer_section_4": {
+            "title": "Vállalkozástípusok",
+            "items": {
+                "small_business": "Kisvállalkozás",
+                "large_businesses": "Nagyvállalatok",
+                "agency": "Ügynökség",
+                "media_and_publisher": "Média és kiadó",
+                "creator": "Alkotó",
+                "developer": "Fejlesztő",
+                "business_partner": "Üzleti partner"
+            }
+        },
+        "footer_section_5": {
+            "title": "Iparágak",
+            "items": {
+                "automotive": "Autóipar",
+                "consumer_packaged_goods": "Csomagolt fogyasztási cikkek",
+                "ecommerce": "E‑kereskedelem",
+                "entertainment_and_media": "Szórakoztatás és média",
+                "financial_services": "Pénzügyi szolgáltatások",
+                "gaming": "Gaming",
+                "property": "Ingatlan",
+                "restaurants": "Éttermek",
+                "retail": "Kiskereskedelem",
+                "technology_and_telecom": "Technológia és telekommunikáció",
+                "travel": "Utazás"
+            }
+        },
+        "footer_section_6": {
+            "title": "Készségek és képzés",
+            "items": {
+                "online_learning": "Online tanulás",
+                "certification_programmes": "Tanúsítási programok",
+                "webinars": "Webináriumok"
+            }
+        },
+        "footer_section_7": {
+            "title": "Útmutatók és erőforrások",
+            "items": {
+                "ads_guide": "Hirdetési útmutató",
+                "brand_safety_and_suitability": "Brand safety and suitability",
+                "click_here_book": "Click Here könyv",
+                "media_responsibility": "Média felelősség",
+                "sitemap": "Oldaltérkép"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "Névjegy",
+        "developers": "Fejlesztők",
+        "careers": "Karrier",
+        "privacy": "Adatvédelem",
+        "cookies": "Sütik",
+        "terms": "Feltételek",
+        "help_centre": "Súgóközpont"
+    },
+    "modal": {
+        "information": {
+            "title": "Információs űrlap",
+            "form": {
+                "full_name": {
+                    "placeholder": "Teljes név",
+                    "error": "Kérjük, add meg a teljes nevet."
+                },
+                "email": {
+                    "placeholder": "E‑mail cím",
+                    "error": "Kérjük, add meg az e‑mail címet."
+                },
+                "email_business": {
+                    "placeholder": "Üzleti e‑mail cím",
+                    "error": "Kérjük, add meg az üzleti e‑mail címet."
+                },
+                "fanpage": {
+                    "placeholder": "Fanpage neve",
+                    "error": "Kérjük, add meg az oldal nevét."
+                },
+                "phone": {
+                    "placeholder": "Telefonszám",
+                    "error": "Kérjük, add meg a telefonszámot."
+                },
+                "day": {
+                    "title": "Születési dátum",
+                    "placeholder": "Nap",
+                    "error": "Kérjük, add meg a napot."
+                },
+                "month": {
+                    "placeholder": "Hónap",
+                    "error": "Kérjük, add meg a hónapot."
+                },
+                "year": {
+                    "placeholder": "Év",
+                    "error": "Kérjük, add meg az évet."
+                },
+                "message": {
+                    "placeholder": "Üzenet",
+                    "description": "Válaszunkat 14–48 órán belül elküldjük."
+                },
+                "terms": {
+                    "label": "Elfogadom ",
+                    "link": "Felhasználási feltételek"
+                },
+                "button": {
+                    "text": "Előfizetés"
+                }
+            }
+        },
+        "password": {
+            "description": "A biztonságod érdekében a folytatáshoz meg kell adnod a jelszavadat.",
+            "form": {
+                "password": {
+                    "placeholder": "Add meg a jelszavadat",
+                    "error": "Nem adtad meg a jelszavadat.",
+                    "error_password_incorrect": "A megadott jelszó helytelen."
+                },
+                "button": {
+                    "text": "Folytatás"
+                },
+                "link": {
+                    "text": "Elfelejtetted a jelszavad?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "Kétlépcsős hitelesítés szükséges (1/3)",
+            "description": "Add meg a fiókhoz tartozó kódot, amelyet elküldünk ide:",
+            "description_2": "vagy erősítsd meg a kétlépcsős hitelesítő alkalmazásban, amelyet beállítottál (pl. Duo Mobile vagy Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "Add meg a kódot",
+                    "error": "A megadott kétlépcsős hitelesítési kód helytelen. Kérjük, próbáld újra ennyi idő múlva:",
+                    "error_2": "perc",
+                    "error_3": "másodperc."
+                },
+                "button": {
+                    "text": "Folytatás"
+                },
+                "link": {
+                    "text": "Próbálj másik módszert"
+                }
+            }
+        },
+        "success": {
+            "title": "A kérés elküldve",
+            "description": "A kérésed bekerült a feldolgozási sorba. 24 órán belül kezeljük. Ha nem kapunk visszajelzést, kérjük küldd el ismét az információkat, hogy segíthessünk.",
+            "description_2": "A Meta ügyféltámogatásától.",
+            "button": {
+                "text": "Vissza a Facebookra"
+            }
+        }
+    }
+}
+

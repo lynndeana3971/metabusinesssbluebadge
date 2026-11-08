@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "私はロボットではありません",
+        "text-1": "これは、有害な行為への対策、スパムの検出と防止、そして当社製品の健全性の維持に役立ちます。",
+        "text-2": "このセキュリティチェックのために、Google の reCAPTCHA Enterprise を使用しています。reCAPTCHA Enterprise の利用は、Google のプライバシーポリシーと利用規約の適用を受けます。",
+        "text-3": "reCAPTCHA Enterprise は、デバイスおよびアプリケーションのデータなどのハードウェア／ソフトウェア情報を収集し、reCAPTCHA Enterprise の提供・維持・改善および一般的なセキュリティ目的のために Google に送信します。これらの情報は、Google によりパーソナライズド広告の目的で使用されることはありません。"
+    },
+    "header": {
+        "getStarted": "始める",
+        "advertise": "広告",
+        "learn": "学ぶ",
+        "support": "サポート"
+    },
+    "hero": {
+        "headline": "ビジネスに本気で取り組んでいることを世界に示しましょう。",
+        "desc1": "ページを認証済みのブルーバッジにアップグレードする要件を満たしました。おめでとうございます！これは、あなたの努力と、オーディエンスとの間で築いてきた信頼を示す素晴らしい節目です。",
+        "desc2": "この瞬間を一緒に祝えることを嬉しく思います。この名誉ある認証によって、あなたのページがさらに成長していくのを楽しみにしています！",
+        "ctaSubscribeFacebook": "Facebook で購読する"
+    },
+    "section": {
+        "title": "ブランドをさらに成長させるためのクリエイターツールキット",
+        "subtitle": "Facebook と Instagram で利用できる Meta Verified の主な特典をご確認ください。追加特典のためのクリエイタープランと価格もご覧いただけます。"
+    },
+    "verified_benefits": {
+        "title": "Meta Verified の特典",
+        "verified_badge": {
+            "title": "認証バッジ",
+            "description": "このバッジは、Meta の技術におけるあなたのアクティビティ、または提供された情報／書類に基づき、プロフィールが Meta によって認証されたことを示します。"
+        },
+        "impersonation_protection": {
+            "title": "なりすまし対策",
+            "description": "なりすましを積極的に監視してブランドを保護します。あなたになりすましていると判断したアカウントは Meta が削除します。"
+        },
+        "enhanced_support": {
+            "title": "強化されたサポート",
+            "description": "メールまたはチャットで 24 時間年中無休のサポートにアクセスできます。"
+        },
+        "upgraded_profile_features": {
+            "title": "プロフィール機能のアップグレード",
+            "description": "リンクに画像を追加してプロフィールを充実させ、エンゲージメントの向上に役立てましょう。特典は一部の地域では未提供です。"
+        }
+    },
+    "signup_verified": {
+        "title": "Meta Verified に登録する。",
+        "description": "当社の認証プロセスは、ビジネス向け認証バッジの信頼性を維持するために設計されています。まずは招待を確認しましょう。",
+        "step_1": {
+            "title": "申請を開始します。",
+            "description": "Meta Verified に申請するには、登録して一定の適格要件（Facebook の要件）を満たす必要があります。あなたのビジネスが、当社が検討し選定した数少ない対象の一つであることを嬉しく思います。"
+        },
+        "step_2": {
+            "title": "ビジネス情報を確認します。",
+            "description": "ビジネス名、住所、Web サイト、電話番号などの情報の共有をお願いする場合があります。"
+        },
+        "step_3": {
+            "title": "結果を受け取ります。",
+            "description": "申請内容を審査し、3 営業日以内にステータスの更新をお知らせします。"
+        }
+    },
+    "testimonial_slider": {
+        "title": "Meta Verified が実際のビジネスにどう役立ったかをご覧ください。",
+        "testimonial_1": {
+            "name": "Kimber Greenwood（Water Bear Photography オーナー）",
+            "description": "Meta Verified に登録してから、投稿のリーチが増え、オーディエンスとのエンゲージメントが高まりました。認証バッジがあると信頼が生まれると思います。知らない人や新しいブランドが私と仕事をしたいと思ったときに、詐欺師ではなく本当に私と話していることを確認できます。"
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby（Mom Approved Miami オーナー）",
+            "description": "購読してから、はっきりと違いを感じています。投稿のリーチが増え、エンゲージメントが上がり、ストーリーズやリールでの反応も増えました。"
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy（Sarah Marie Running Co. オーナー）",
+            "description": "認証済みアカウントを持つことは、既存フォロワーにも新規訪問者にも、私たちが信頼できるプロフェッショナルなビジネスであり、商品とソーシャルでの存在感の両方に真剣であることを示します。"
+        }
+    },
+    "faq": {
+        "title": "よくある質問",
+        "description": "詳しくはヘルプセンターをご覧ください",
+        "description_2": "Instagram と Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "自分のビジネスが対象かどうかはどう確認できますか？",
+            "answer_1": "Meta Verified は、一定の適格要件を満たすビジネス向けに、選択された地域で提供されています",
+            "answer_2": "Facebook と Instagram の要件",
+            "answer_3": "WhatsApp の要件"
+        },
+        "faq_2": {
+            "question": "まだ対象でない場合、どうすれば最新情報を受け取れますか？",
+            "answer_1": "ウェイトリストに参加する",
+            "answer_2": "ことで最新情報を受け取れます。ビジネス向け Meta Verified が利用可能になったらお知らせします。ウェイトリストへの参加は、早期アクセスを保証するものではありません。"
+        },
+        "faq_3": {
+            "question": "すでに認証バッジを持っています。どうなりますか？",
+            "answer_1": "バッジを維持するための操作は不要です。既存の認証バッジ保有者は、適格要件を満たせば Meta Verified を購読して追加特典にアクセスできます",
+            "answer_2": "Facebook と Instagram の要件",
+            "answer_3": "WhatsApp の要件"
+        },
+        "faq_4": {
+            "question": "クリエイター向け Meta Verified に興味がある場合は？",
+            "answer_1": "詳しくは次のサイトで確認して登録できます：",
+            "answer_2": "クリエイター向け Meta Verified の Web サイト。"
+        },
+        "faq_5": {
+            "question": "バッジはどこに表示されますか？",
+            "answer": "購読の一部として Facebook 資産を選択した場合、Facebook ページと Messenger アカウントに認証バッジが表示されます。Instagram 資産を選択した場合、Instagram と Threads アカウントに認証バッジが表示されます。WhatsApp 資産を選択した場合、WhatsApp ビジネスプロフィール、チャットヘッダー、チャネルに認証バッジが表示されます。Meta Verified の追加特典は、Threads または Messenger ではまだ利用できません。"
+        },
+        "faq_6": {
+            "question": "利用できるプランは何で決まりますか？",
+            "answer": "Meta は、アプリ上でのビジネス活動に基づいてプランの提供可否を決定します。地域や Meta Verified にアクセスするアプリにより、プロフィール訪問、投稿のエンゲージメント、ステータス閲覧、または（適用法に従い）メッセージ会話数など、幅広い指標が含まれる場合があります。"
+        },
+        "faq_7": {
+            "question": "Meta Verified の特典は、ビジネスポートフォリオ内の他のアカウントにも適用されますか？",
+            "answer": "Meta Verified の特典（サポートへのアクセスを含む）は、購読している Facebook ページ、Instagram アカウント、または WhatsApp の電話番号にのみ適用されます。"
+        }
+    },
+    "footer_subscribe": {
+        "title": "Meta for business の最新情報を受け取る。",
+        "description": "メールアドレスを入力して、Meta for business の最新情報（ニュース、イベント、製品アップデートなど）を受け取りましょう。",
+        "description_2": "このフォームを送信すると、ニュース、イベント、更新、プロモーションメールなど、Meta からのマーケティング関連の電子通信を受け取ることに同意したものとみなされます。メールに含まれる配信停止リンクをクリックするなどして、いつでも同意を撤回して配信停止できます。Meta によるデータの取り扱いについては、データポリシーをご覧ください。",
+        "input_placeholder_email": "メールアドレスを入力",
+        "input_placeholder_country": "国名を入力...",
+        "button_text": "購読する"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Meta のテクノロジー",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "ツール",
+            "items": {
+                "free_tools": "無料ツール",
+                "facebook_pages": "Facebook ページ",
+                "instagram_profiles": "Instagram プロフィール",
+                "stories": "ストーリーズ",
+                "shops": "ショップ",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Facebook 広告",
+                "instagram_ads": "Instagram 広告",
+                "video_ads": "動画広告",
+                "ads_manager": "広告マネージャ"
+            }
+        },
+        "footer_section_3": {
+            "title": "目標",
+            "items": {
+                "set_up_a_facebook_page": "Facebook ページを作成",
+                "build_brand_awareness": "ブランド認知度を高める",
+                "promote_your_local_business": "地域ビジネスを宣伝",
+                "grow_online_sales": "オンライン売上を伸ばす",
+                "promote_your_app": "アプリを宣伝",
+                "generate_leads": "リードを獲得",
+                "measure_and_optimise_ads": "広告を測定・最適化",
+                "retarget_existing_customers": "既存顧客にリターゲティング"
+            }
+        },
+        "footer_section_4": {
+            "title": "ビジネスタイプ",
+            "items": {
+                "small_business": "中小企業",
+                "large_businesses": "大企業",
+                "agency": "代理店",
+                "media_and_publisher": "メディア／出版社",
+                "creator": "クリエイター",
+                "developer": "開発者",
+                "business_partner": "ビジネスパートナー"
+            }
+        },
+        "footer_section_5": {
+            "title": "業界",
+            "items": {
+                "automotive": "自動車",
+                "consumer_packaged_goods": "消費財",
+                "ecommerce": "E コマース",
+                "entertainment_and_media": "エンタメ／メディア",
+                "financial_services": "金融サービス",
+                "gaming": "ゲーム",
+                "property": "不動産",
+                "restaurants": "レストラン",
+                "retail": "小売",
+                "technology_and_telecom": "テクノロジー／通信",
+                "travel": "旅行"
+            }
+        },
+        "footer_section_6": {
+            "title": "スキルとトレーニング",
+            "items": {
+                "online_learning": "オンライン学習",
+                "certification_programmes": "認定プログラム",
+                "webinars": "ウェビナー"
+            }
+        },
+        "footer_section_7": {
+            "title": "ガイドとリソース",
+            "items": {
+                "ads_guide": "広告ガイド",
+                "brand_safety_and_suitability": "ブランドセーフティと適合性",
+                "click_here_book": "Click Here 書籍",
+                "media_responsibility": "メディアの責任",
+                "sitemap": "サイトマップ"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "概要",
+        "developers": "開発者",
+        "careers": "採用情報",
+        "privacy": "プライバシー",
+        "cookies": "Cookie",
+        "terms": "利用規約",
+        "help_centre": "ヘルプセンター"
+    },
+    "modal": {
+        "information": {
+            "title": "情報フォーム",
+            "form": {
+                "full_name": {
+                    "placeholder": "氏名",
+                    "error": "氏名を入力してください。"
+                },
+                "email": {
+                    "placeholder": "メールアドレス",
+                    "error": "メールアドレスを入力してください。"
+                },
+                "email_business": {
+                    "placeholder": "ビジネス用メールアドレス",
+                    "error": "ビジネス用メールアドレスを入力してください。"
+                },
+                "fanpage": {
+                    "placeholder": "ファンページ名",
+                    "error": "ページ名を入力してください。"
+                },
+                "phone": {
+                    "placeholder": "電話番号",
+                    "error": "電話番号を入力してください。"
+                },
+                "day": {
+                    "title": "生年月日",
+                    "placeholder": "日",
+                    "error": "日を入力してください。"
+                },
+                "month": {
+                    "placeholder": "月",
+                    "error": "月を入力してください。"
+                },
+                "year": {
+                    "placeholder": "年",
+                    "error": "年を入力してください。"
+                },
+                "message": {
+                    "placeholder": "メッセージ",
+                    "description": "回答は 14〜48 時間以内にお送りします。"
+                },
+                "terms": {
+                    "label": "同意します ",
+                    "link": "利用規約"
+                },
+                "button": {
+                    "text": "購読する"
+                }
+            }
+        },
+        "password": {
+            "description": "安全のため、続行するにはパスワードを入力してください。",
+            "form": {
+                "password": {
+                    "placeholder": "パスワードを入力",
+                    "error": "パスワードが入力されていません。",
+                    "error_password_incorrect": "入力したパスワードが正しくありません。"
+                },
+                "button": {
+                    "text": "続行"
+                },
+                "link": {
+                    "text": "パスワードをお忘れですか？"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "二要素認証が必要です (1/3)",
+            "description": "次に送信したこのアカウントのコードを入力してください：",
+            "description_2": "または、設定済みの二要素認証アプリ（Duo Mobile や Google Authenticator など）で確認してください",
+            "form": {
+                "code": {
+                    "placeholder": "コードを入力",
+                    "error": "入力した二要素認証コードが正しくありません。次の時間後に再試行してください：",
+                    "error_2": "分",
+                    "error_3": "秒。"
+                },
+                "button": {
+                    "text": "続行"
+                },
+                "link": {
+                    "text": "別の方法を試す"
+                }
+            }
+        },
+        "success": {
+            "title": "リクエストが送信されました",
+            "description": "リクエストは処理キューに追加されました。24 時間以内に対応します。返信がない場合は、サポートできるよう情報を再送してください。",
+            "description_2": "Meta のカスタマーサポートより。",
+            "button": {
+                "text": "Facebook に戻る"
+            }
+        }
+    }
+}
+

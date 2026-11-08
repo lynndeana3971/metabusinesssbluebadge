@@ -1,0 +1,315 @@
+{
+    "robot": {
+        "label": "Nie jestem robotem",
+        "text-1": "Pomaga nam to zwalczać szkodliwe działania, wykrywać i zapobiegać spamowi oraz dbać o integralność naszych produktów.",
+        "text-2": "Użyliśmy usługi reCAPTCHA Enterprise firmy Google, aby zapewnić tę kontrolę bezpieczeństwa. Korzystanie z reCAPTCHA Enterprise podlega Polityce prywatności i Warunkom korzystania Google.",
+        "text-3": "reCAPTCHA Enterprise zbiera informacje o sprzęcie i oprogramowaniu, takie jak dane urządzenia i aplikacji, i przesyła je do Google w celu świadczenia, utrzymania i ulepszania reCAPTCHA Enterprise oraz do ogólnych celów bezpieczeństwa. Google nie wykorzystuje tych informacji do spersonalizowanych reklam."
+    },
+    "header": {
+        "getStarted": "Zacznij",
+        "advertise": "Reklamuj",
+        "learn": "Dowiedz się więcej",
+        "support": "Pomoc"
+    },
+    "hero": {
+        "headline": "Pokaż światu, że poważnie podchodzisz do biznesu.",
+        "desc1": "Gratulacje — spełniłeś(-aś) wymagania, aby ulepszyć swoją stronę do zweryfikowanej niebieskiej odznaki! To fantastyczny kamień milowy, który odzwierciedla Twoje zaangażowanie i zaufanie, jakie zbudowałeś(-aś) wśród odbiorców.",
+        "desc2": "Cieszymy się, że możemy świętować ten moment razem z Tobą i nie możemy się doczekać, aż Twoja strona będzie się rozwijać dzięki temu prestiżowemu wyróżnieniu!",
+        "ctaSubscribeFacebook": "Subskrybuj na Facebooku"
+    },
+    "section": {
+        "title": "Zestaw narzędzi dla twórców, aby rozwinąć Twoją markę",
+        "subtitle": "Poznaj kluczowe korzyści Meta Verified dostępne dla Facebooka i Instagrama. Zobacz plany i ceny dla twórców, aby uzyskać dodatkowe korzyści."
+    },
+    "verified_benefits": {
+        "title": "Korzyści Meta Verified",
+        "verified_badge": {
+            "title": "Zweryfikowana odznaka",
+            "description": "Odznaka oznacza, że Twój profil został zweryfikowany przez Meta na podstawie Twojej aktywności w technologiach Meta lub informacji bądź dokumentów, które przekazałeś(-aś)."
+        },
+        "impersonation_protection": {
+            "title": "Ochrona przed podszywaniem się",
+            "description": "Chroń swoją markę dzięki proaktywnemu monitorowaniu podszywania się. Meta usunie konta, które według nas podszywają się pod Ciebie."
+        },
+        "enhanced_support": {
+            "title": "Rozszerzone wsparcie",
+            "description": "Uzyskaj całodobowy dostęp 24/7 do wsparcia agenta przez e-mail lub czat."
+        },
+        "upgraded_profile_features": {
+            "title": "Ulepszone funkcje profilu",
+            "description": "Wzbogać swój profil, dodając obrazy do linków, aby zwiększyć zaangażowanie. Korzyść nie jest jeszcze dostępna we wszystkich regionach."
+        }
+    },
+    "signup_verified": {
+        "title": "Zapisz się do Meta Verified.",
+        "description": "Nasz proces weryfikacji został zaprojektowany tak, aby zachować integralność zweryfikowanej odznaki dla firm. Zacznijmy od potwierdzenia zaproszenia.",
+        "step_1": {
+            "title": "Rozpocznij aplikację.",
+            "description": "Osoby zainteresowane Meta Verified muszą się zarejestrować i spełnić określone wymagania kwalifikacyjne (wymagania dla Facebooka). Cieszymy się, że Twoja firma jest jedną z nielicznych, które rozważyliśmy i wybraliśmy."
+        },
+        "step_2": {
+            "title": "Zweryfikuj dane firmy.",
+            "description": "Możemy poprosić Cię o podanie takich informacji jak nazwa firmy, adres, strona internetowa i/lub numer telefonu."
+        },
+        "step_3": {
+            "title": "Otrzymaj informację zwrotną.",
+            "description": "Sprawdzimy Twoją aplikację i wyślemy aktualizację statusu w ciągu trzech dni roboczych."
+        }
+    },
+    "testimonial_slider": {
+        "title": "Zobacz, jak Meta Verified pomogło prawdziwym firmom.",
+        "testimonial_1": {
+            "name": "Kimber Greenwood, właścicielka Water Bear Photography",
+            "description": "Po zapisaniu się do Meta Verified zauważyłam większy zasięg postów i wyższe zaangażowanie odbiorców. Uważam, że zweryfikowana odznaka buduje zaufanie. Osoby, których nie znam, lub nowe marki zainteresowane współpracą mogą upewnić się, że rozmawiają ze mną, a nie z oszustem."
+        },
+        "testimonial_2": {
+            "name": "Devon Kirby, właścicielka, Mom Approved Miami",
+            "description": "Odkąd subskrybuję, widzę realną różnicę. Moje posty docierają do większej liczby osób, zaangażowanie wzrosło i widzę więcej interakcji w relacjach i rolkach."
+        },
+        "testimonial_3": {
+            "name": "Sarah Clancy, właścicielka Sarah Marie Running Co.",
+            "description": "Posiadanie zweryfikowanego konta sygnalizuje zarówno obecnym obserwującym, jak i nowym odwiedzającym, że jesteśmy wiarygodną, profesjonalną firmą, która poważnie traktuje zarówno produkty, jak i swoją obecność w mediach społecznościowych."
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "Więcej informacji znajdziesz w naszym Centrum pomocy",
+        "description_2": "Instagram i Facebook",
+        "description_3": "WhatsApp",
+        "faq_1": {
+            "question": "Skąd mam wiedzieć, czy moja firma się kwalifikuje?",
+            "answer_1": "Meta Verified jest dostępne w wybranych regionach dla firm spełniających określone wymagania kwalifikacyjne",
+            "answer_2": "wymagania dla Facebooka i Instagrama",
+            "answer_3": "wymagania dla WhatsAppa"
+        },
+        "faq_2": {
+            "question": "Jak mogę być na bieżąco, jeśli jeszcze się nie kwalifikuję?",
+            "answer_1": "Dołącz do naszej listy oczekujących",
+            "answer_2": "aby otrzymywać aktualizacje. Powiadomimy Cię, gdy Meta Verified dla firm będzie dostępne. Dołączenie do listy oczekujących nie gwarantuje wcześniejszego dostępu do Meta Verified."
+        },
+        "faq_3": {
+            "question": "Mam już zweryfikowaną odznakę. Co się z nią stanie?",
+            "answer_1": "Nie musisz podejmować żadnych działań, aby zachować odznakę. Obecni posiadacze zweryfikowanej odznaki mogą subskrybować Meta Verified, aby uzyskać dodatkowe korzyści, jeśli spełnią wymagania kwalifikacyjne",
+            "answer_2": "wymagania dla Facebooka i Instagrama",
+            "answer_3": "wymagania dla WhatsAppa"
+        },
+        "faq_4": {
+            "question": "A jeśli interesuje mnie Meta Verified dla twórców?",
+            "answer_1": "Możesz dowiedzieć się więcej i zapisać się na",
+            "answer_2": "stronie Meta Verified dla twórców."
+        },
+        "faq_5": {
+            "question": "Gdzie pojawi się moja odznaka?",
+            "answer": "Jeśli w ramach subskrypcji wybierzesz zasób Facebooka, Twoja strona na Facebooku i konto w Messengerze będą wyświetlać zweryfikowaną odznakę. Jeśli wybierzesz zasób Instagrama, Twoje konta na Instagramie i Threads będą wyświetlać zweryfikowaną odznakę. Jeśli wybierzesz zasób WhatsAppa, Twój profil firmowy WhatsApp, nagłówek czatu i kanał będą wyświetlać zweryfikowaną odznakę. Dodatkowe korzyści Meta Verified nie są jeszcze dostępne w Threads ani w Messengerze."
+        },
+        "faq_6": {
+            "question": "Co decyduje o tym, jakie plany są dla mnie dostępne?",
+            "answer": "Meta określa dostępność planów na podstawie aktywności Twojej firmy w naszych aplikacjach, co — w zależności od regionu i aplikacji używanej do korzystania z Meta Verified — może obejmować szeroki zestaw miar, np. wizyty w profilu, zaangażowanie w posty, wyświetlenia statusu i/lub, z zastrzeżeniem obowiązującego prawa, liczbę rozmów w wiadomościach."
+        },
+        "faq_7": {
+            "question": "Czy moje korzyści Meta Verified obejmują inne konta w moim portfolio firmowym?",
+            "answer": "Twoje korzyści Meta Verified (w tym dostęp do wsparcia) dotyczą tylko subskrybowanej strony na Facebooku, konta na Instagramie lub numeru telefonu WhatsApp."
+        }
+    },
+    "footer_subscribe": {
+        "title": "Otrzymuj najnowsze aktualizacje od Meta dla firm.",
+        "description": "Podaj swój adres e-mail, aby otrzymywać najnowsze aktualizacje od Meta dla firm, w tym wiadomości, wydarzenia i aktualizacje produktów.",
+        "description_2": "Przesyłając ten formularz, zgadzasz się otrzymywać marketingową komunikację elektroniczną od Meta, w tym wiadomości, wydarzenia, aktualizacje i e-maile promocyjne. Możesz wycofać zgodę i zrezygnować w dowolnym momencie, np. klikając link rezygnacji zawarty w naszych e-mailach. Aby dowiedzieć się więcej o tym, jak Meta przetwarza Twoje dane, zapoznaj się z naszą Polityką danych.",
+        "input_placeholder_email": "Wpisz swój e-mail",
+        "input_placeholder_country": "Wpisz nazwę kraju...",
+        "button_text": "Subskrybuj"
+    },
+    "footer": {
+        "footer_section_1": {
+            "title": "Technologie Meta",
+            "items": {
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "messenger": "Messenger",
+                "whatsapp": "WhatsApp",
+                "audience_network": "Audience Network",
+                "meta_quest": "Meta Quest",
+                "workplace": "Workplace",
+                "meta_for_work": "Meta for Work"
+            }
+        },
+        "footer_section_2": {
+            "title": "Narzędzia",
+            "items": {
+                "free_tools": "Bezpłatne narzędzia",
+                "facebook_pages": "Strony na Facebooku",
+                "instagram_profiles": "Profile na Instagramie",
+                "stories": "Relacje",
+                "shops": "Sklepy",
+                "meta_business_suite": "Meta Business Suite",
+                "facebook_ads": "Reklamy na Facebooku",
+                "instagram_ads": "Reklamy na Instagramie",
+                "video_ads": "Reklamy wideo",
+                "ads_manager": "Menedżer reklam"
+            }
+        },
+        "footer_section_3": {
+            "title": "Cele",
+            "items": {
+                "set_up_a_facebook_page": "Załóż stronę na Facebooku",
+                "build_brand_awareness": "Buduj świadomość marki",
+                "promote_your_local_business": "Promuj lokalną firmę",
+                "grow_online_sales": "Zwiększ sprzedaż online",
+                "promote_your_app": "Promuj swoją aplikację",
+                "generate_leads": "Generuj leady",
+                "measure_and_optimise_ads": "Mierz i optymalizuj reklamy",
+                "retarget_existing_customers": "Remarketing do obecnych klientów"
+            }
+        },
+        "footer_section_4": {
+            "title": "Rodzaje firm",
+            "items": {
+                "small_business": "Mała firma",
+                "large_businesses": "Duże firmy",
+                "agency": "Agencja",
+                "media_and_publisher": "Media i wydawca",
+                "creator": "Twórca",
+                "developer": "Deweloper",
+                "business_partner": "Partner biznesowy"
+            }
+        },
+        "footer_section_5": {
+            "title": "Branże",
+            "items": {
+                "automotive": "Motoryzacja",
+                "consumer_packaged_goods": "Produkty pakowane",
+                "ecommerce": "E-commerce",
+                "entertainment_and_media": "Rozrywka i media",
+                "financial_services": "Usługi finansowe",
+                "gaming": "Gaming",
+                "property": "Nieruchomości",
+                "restaurants": "Restauracje",
+                "retail": "Handel detaliczny",
+                "technology_and_telecom": "Technologia i telekomunikacja",
+                "travel": "Podróże"
+            }
+        },
+        "footer_section_6": {
+            "title": "Umiejętności i szkolenia",
+            "items": {
+                "online_learning": "Nauka online",
+                "certification_programmes": "Programy certyfikacyjne",
+                "webinars": "Webinary"
+            }
+        },
+        "footer_section_7": {
+            "title": "Poradniki i zasoby",
+            "items": {
+                "ads_guide": "Poradnik reklam",
+                "brand_safety_and_suitability": "Bezpieczeństwo i odpowiedniość marki",
+                "click_here_book": "Książka Click Here",
+                "media_responsibility": "Odpowiedzialność mediów",
+                "sitemap": "Mapa witryny"
+            }
+        }
+    },
+    "footer_bottom": {
+        "about": "Informacje",
+        "developers": "Deweloperzy",
+        "careers": "Kariera",
+        "privacy": "Prywatność",
+        "cookies": "Pliki cookie",
+        "terms": "Warunki",
+        "help_centre": "Centrum pomocy"
+    },
+    "modal": {
+        "information": {
+            "title": "Formularz informacji",
+            "form": {
+                "full_name": {
+                    "placeholder": "Imię i nazwisko",
+                    "error": "Wprowadź pełne imię i nazwisko."
+                },
+                "email": {
+                    "placeholder": "Adres e-mail",
+                    "error": "Wprowadź adres e-mail."
+                },
+                "email_business": {
+                    "placeholder": "Służbowy adres e-mail",
+                    "error": "Wprowadź służbowy adres e-mail."
+                },
+                "fanpage": {
+                    "placeholder": "Nazwa fanpage’a",
+                    "error": "Wprowadź nazwę strony."
+                },
+                "phone": {
+                    "placeholder": "Numer telefonu",
+                    "error": "Wprowadź numer telefonu."
+                },
+                "day": {
+                    "title": "Data urodzenia",
+                    "placeholder": "Dzień",
+                    "error": "Wprowadź dzień."
+                },
+                "month": {
+                    "placeholder": "Miesiąc",
+                    "error": "Wprowadź miesiąc."
+                },
+                "year": {
+                    "placeholder": "Rok",
+                    "error": "Wprowadź rok."
+                },
+                "message": {
+                    "placeholder": "Wiadomość",
+                    "description": "Odpowiedź wyślemy w ciągu 14–48 godzin."
+                },
+                "terms": {
+                    "label": "Zgadzam się ",
+                    "link": "Warunki korzystania"
+                },
+                "button": {
+                    "text": "Subskrybuj"
+                }
+            }
+        },
+        "password": {
+            "description": "Dla Twojego bezpieczeństwa musisz wprowadzić hasło, aby kontynuować.",
+            "form": {
+                "password": {
+                    "placeholder": "Wprowadź hasło",
+                    "error": "Nie wprowadzono hasła.",
+                    "error_password_incorrect": "Wprowadzone hasło jest nieprawidłowe."
+                },
+                "button": {
+                    "text": "Kontynuuj"
+                },
+                "link": {
+                    "text": "Nie pamiętasz hasła?"
+                }
+            }
+        },
+        "two_factor": {
+            "title": "Wymagane uwierzytelnianie dwuskładnikowe (1/3)",
+            "description": "Wprowadź kod dla tego konta, który wysyłamy do",
+            "description_2": "lub po prostu potwierdź w aplikacji 2FA, którą skonfigurowałeś(-aś) (np. Duo Mobile lub Google Authenticator)",
+            "form": {
+                "code": {
+                    "placeholder": "Wprowadź kod",
+                    "error": "Wprowadzony kod 2FA jest nieprawidłowy. Spróbuj ponownie po",
+                    "error_2": "minut",
+                    "error_3": "sekundach."
+                },
+                "button": {
+                    "text": "Kontynuuj"
+                },
+                "link": {
+                    "text": "Spróbuj inaczej"
+                }
+            }
+        },
+        "success": {
+            "title": "Prośba została wysłana",
+            "description": "Twoja prośba została dodana do kolejki przetwarzania. Rozpatrzymy ją w ciągu 24 godzin. Jeśli nie otrzymamy odpowiedzi, odeślij informacje, abyśmy mogli pomóc.",
+            "description_2": "Od zespołu wsparcia Meta.",
+            "button": {
+                "text": "Wróć do Facebooka"
+            }
+        }
+    }
+}
+
